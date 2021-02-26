@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My Website (in french)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theophilediot900.wixsite.com/theophilediot)
+[<img align="left" alt="My Website (in french)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://site-web-theophile-diot.glitch.me/)
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />](https://www.linkedin.com/in/th%C3%A9ophile-diot/)
 
 <br/>
