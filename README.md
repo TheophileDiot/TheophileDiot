@@ -1,6 +1,6 @@
 ### Hi there, I'm Théophile DIOT 👋
 
-## I'm a Student at [IN'TECH SUD](https://www.intechinfo.fr/campus-ecole-informatique/intech-agen), and a alternate at [Digital service](https://digitalservice.group)!
+## I'm a Student at [IN'TECH SUD](https://www.intechinfo.fr/campus-ecole-informatique/intech-agen), and a alternate at [Bunkerity](https://www.bunkerity.com)!
 - 🔭 I'm currently working on my apprenticeship !
 - 🌱 I'm currently learning new things and working with [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
