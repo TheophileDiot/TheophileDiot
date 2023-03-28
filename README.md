@@ -12,15 +12,15 @@ I'm Théophile Diot, I'm 22 years old and a passionate Software engineer from Fr
 
 ### 📈 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheophileDiot&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheophileDiot&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=algolia&hide_border=true" /> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### 🔧 Top Repositories
 
 
 <a href="https://github.com/bunkerity/bunkerweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bunkerity&repo=bunkerweb&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bunkerity&repo=bunkerweb&theme=algolia" />
 </a>
 <a href="https://github.com/TheophileDiot/Omnitron">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheophileDiot&repo=Omnitron&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheophileDiot&repo=Omnitron&theme=algolia" />
 </a>
