@@ -15,7 +15,7 @@ I'm Théophile Diot, I'm 22 years old and a passionate Software engineer from Fr
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheophileDiot&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=algolia&hide_border=true" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-#### 🔧 Top Repositories
+### 🔧 Top Repositories
 
 
 <a href="https://github.com/bunkerity/bunkerweb">
