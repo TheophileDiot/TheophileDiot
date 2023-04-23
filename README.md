@@ -24,3 +24,7 @@ I'm Théophile Diot, I'm 22 years old and a passionate Software engineer from Fr
 <a href="https://github.com/TheophileDiot/Omnitron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheophileDiot&repo=Omnitron&theme=algolia" />
 </a>
+
+### 🎉 Other things
+
+<a href="https://app.daily.dev/TheophileDt"><img src="https://github.com/TheophileDiot/TheophileDiot/blob/master/devcard.svg" width="300" alt="Théophile Diot's Dev Card"/></a>
