@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I'm Théophile Diot, I'm 22 years old and a passionate Software engineer from France 🇫🇷, I love building fun experiments and open-source projects.
+I'm Théophile Diot, I'm 23 years old and a passionate Software engineer from France 🇫🇷, I love building fun experiments and open-source projects.
 
 **About me**
 
