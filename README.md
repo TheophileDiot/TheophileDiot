@@ -29,6 +29,7 @@ I'm Théophile Diot, I'm 23 years old and a passionate Software engineer from Fr
 <a href="https://wakatime.com/@theophile_bunkerity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=3aa5ce41-c253-43d9-8441-a721e446a45f&layout=compact&theme=algolia" />
 </a>
+<br/>
 <a href="https://app.daily.dev/TheophileDt">
   <img src="https://github.com/TheophileDiot/TheophileDiot/blob/master/devcard.svg" width="300" alt="Théophile Diot's Dev Card"/>
 </a>
