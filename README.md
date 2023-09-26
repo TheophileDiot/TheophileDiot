@@ -12,8 +12,8 @@ I'm Théophile Diot, I'm 23 years old and a passionate Software engineer from Fr
 
 ### 📈 GitHub Stats
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheophileDiot&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&rank_icon=github" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=algolia&hide_border=true&langs_count=8&card_width=320" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheophileDiot&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&rank_icon=github" alt="Théophile's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=algolia&hide_border=true" /> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 🔧 Top Repositories
 
