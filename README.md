@@ -26,10 +26,18 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 
 ### 🎉 Other things
 
+#### 📈 Wakatime Stats
+
 <a href="https://wakatime.com/@theophile_bunkerity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=3aa5ce41-c253-43d9-8441-a721e446a45f&layout=compact&theme=algolia" />
 </a>
-<br/>
+
+#### 👨‍💻 Dev Card
+
 <a href="https://app.daily.dev/TheophileDt">
   <img src="https://github.com/TheophileDiot/TheophileDiot/blob/master/devcard.svg" width="300" alt="Théophile Diot's Dev Card"/>
 </a>
+
+#### 🎶 Groovin' to my Spotify vibes
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7mZ2ls8xQcOaSesECNQ0jr?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
