@@ -37,7 +37,3 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 <a href="https://app.daily.dev/TheophileDt">
   <img src="https://github.com/TheophileDiot/TheophileDiot/blob/master/devcard.svg" width="300" alt="Théophile Diot's Dev Card"/>
 </a>
-
-#### 🎶 Groovin' to my Spotify vibes
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7mZ2ls8xQcOaSesECNQ0jr?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
