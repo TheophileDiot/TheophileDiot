@@ -10,6 +10,8 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 
 - ❤️ I love writing in Python, and creating fun projects with it
 
+---
+
 ### 📈 GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheophileDiot&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&rank_icon=github" alt="Théophile's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=algolia&hide_border=true" /> |
@@ -23,6 +25,8 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 
 <!--END_SECTION:activity-->
 
+---
+
 ### 🔧 Top Repositories
 
 <a href="https://github.com/bunkerity/bunkerweb">
@@ -31,6 +35,8 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 <a href="https://github.com/TheophileDiot/Omnitron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheophileDiot&repo=Omnitron&theme=algolia" />
 </a>
+
+---
 
 ### 🎉 Other things
 
