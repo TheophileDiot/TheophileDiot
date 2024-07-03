@@ -15,6 +15,14 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheophileDiot&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&rank_icon=github" alt="Théophile's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=algolia&hide_border=true" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=TheophileDiot&theme=tokyo-night)
+
+#### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### 🔧 Top Repositories
 
 <a href="https://github.com/bunkerity/bunkerweb">
@@ -35,5 +43,5 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### 👨‍💻 Dev Card
 
 <a href="https://app.daily.dev/TheophileDt">
-  <img src="https://github.com/TheophileDiot/TheophileDiot/blob/master/devcard.svg" width="300" alt="Théophile Diot's Dev Card"/>
+  <img src="./devcard.svg" width="300" alt="Théophile Diot's Dev Card"/>
 </a>
