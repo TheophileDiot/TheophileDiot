@@ -23,8 +23,6 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ---
 
 ### 🔧 Top Repositories
