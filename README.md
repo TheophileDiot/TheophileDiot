@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/TheophileDiot/Omnitron/pull/100) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-2. 🗣 Commented on [#1399](https://github.com/bunkerity/bunkerweb/issues/1399#issuecomment-2273726454) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 🎉 Merged PR [#1391](https://github.com/bunkerity/bunkerweb/pull/1391) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🎉 Merged PR [#1388](https://github.com/bunkerity/bunkerweb/pull/1388) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 🎉 Merged PR [#1387](https://github.com/bunkerity/bunkerweb/pull/1387) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🎉 Merged PR [#1386](https://github.com/bunkerity/bunkerweb/pull/1386) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🎉 Merged PR [#1381](https://github.com/bunkerity/bunkerweb/pull/1381) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🎉 Merged PR [#1379](https://github.com/bunkerity/bunkerweb/pull/1379) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 💪 Opened PR [#1379](https://github.com/bunkerity/bunkerweb/pull/1379) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#1366](https://github.com/bunkerity/bunkerweb/issues/1366#issuecomment-2247713620) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🎉 Merged PR [#90](https://github.com/bunkerity/bunkerweb-plugins/pull/90) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+2. 🎉 Merged PR [#94](https://github.com/bunkerity/bunkerweb-plugins/pull/94) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+3. 🎉 Merged PR [#91](https://github.com/bunkerity/bunkerweb-plugins/pull/91) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+4. 💪 Opened PR [#100](https://github.com/TheophileDiot/Omnitron/pull/100) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
+5. 🗣 Commented on [#1399](https://github.com/bunkerity/bunkerweb/issues/1399#issuecomment-2273726454) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🎉 Merged PR [#1391](https://github.com/bunkerity/bunkerweb/pull/1391) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🎉 Merged PR [#1388](https://github.com/bunkerity/bunkerweb/pull/1388) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 🎉 Merged PR [#1387](https://github.com/bunkerity/bunkerweb/pull/1387) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 🎉 Merged PR [#1386](https://github.com/bunkerity/bunkerweb/pull/1386) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🎉 Merged PR [#1381](https://github.com/bunkerity/bunkerweb/pull/1381) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
