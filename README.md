@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com/TheophileDiot/Omnitron/pull/102) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-2. 💪 Opened PR [#101](https://github.com/TheophileDiot/Omnitron/pull/101) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-3. 🗣 Commented on [#1398](https://github.com/bunkerity/bunkerweb/pull/1398#issuecomment-2276591367) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🗣 Commented on [#1396](https://github.com/bunkerity/bunkerweb/pull/1396#issuecomment-2276591192) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 🗣 Commented on [#1395](https://github.com/bunkerity/bunkerweb/pull/1395#issuecomment-2276591043) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#1392](https://github.com/bunkerity/bunkerweb/pull/1392#issuecomment-2276590920) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#1383](https://github.com/bunkerity/bunkerweb/pull/1383#issuecomment-2276590450) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#1390](https://github.com/bunkerity/bunkerweb/pull/1390#issuecomment-2276589880) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#1382](https://github.com/bunkerity/bunkerweb/pull/1382#issuecomment-2276589459) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#1369](https://github.com/bunkerity/bunkerweb/pull/1369#issuecomment-2276589181) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🎉 Merged PR [#1407](https://github.com/bunkerity/bunkerweb/pull/1407) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. ❌ Closed PR [#1406](https://github.com/bunkerity/bunkerweb/pull/1406) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Closed PR [#1405](https://github.com/bunkerity/bunkerweb/pull/1405) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. ❌ Closed PR [#1404](https://github.com/bunkerity/bunkerweb/pull/1404) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. ❌ Closed PR [#1403](https://github.com/bunkerity/bunkerweb/pull/1403) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. ❌ Closed PR [#1402](https://github.com/bunkerity/bunkerweb/pull/1402) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. ❌ Closed PR [#1401](https://github.com/bunkerity/bunkerweb/pull/1401) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. ❌ Closed PR [#1400](https://github.com/bunkerity/bunkerweb/pull/1400) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 💪 Opened PR [#102](https://github.com/TheophileDiot/Omnitron/pull/102) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
+10. 💪 Opened PR [#101](https://github.com/TheophileDiot/Omnitron/pull/101) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
 <!--END_SECTION:activity-->
 
 ---
