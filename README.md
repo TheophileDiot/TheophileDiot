@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3634](https://github.com/crowdsecurity/crowdsec/pull/3634#issuecomment-2886334443) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
-2. 🗣 Commented on [#3634](https://github.com/crowdsecurity/crowdsec/pull/3634#issuecomment-2886333186) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
-3. 💪 Opened PR [#3634](https://github.com/crowdsecurity/crowdsec/pull/3634) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
-4. ❗ Opened issue [#3632](https://github.com/crowdsecurity/crowdsec/issues/3632) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
-5. 🎉 Merged PR [#2286](https://github.com/bunkerity/bunkerweb/pull/2286) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 💪 Opened PR [#2286](https://github.com/bunkerity/bunkerweb/pull/2286) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🎉 Merged PR [#2284](https://github.com/bunkerity/bunkerweb/pull/2284) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🎉 Merged PR [#2284](https://github.com/bunkerity/bunkerweb/pull/2284) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🎉 Merged PR [#2283](https://github.com/bunkerity/bunkerweb/pull/2283) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🎉 Merged PR [#2283](https://github.com/bunkerity/bunkerweb/pull/2283) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#3634](https://github.com/crowdsecurity/crowdsec/pull/3634#issuecomment-2886656505) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
+2. ❌ Closed PR [#2285](https://github.com/bunkerity/bunkerweb/pull/2285) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Closed PR [#2273](https://github.com/bunkerity/bunkerweb/pull/2273) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🗣 Commented on [#3634](https://github.com/crowdsecurity/crowdsec/pull/3634#issuecomment-2886334443) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
+5. 🗣 Commented on [#3634](https://github.com/crowdsecurity/crowdsec/pull/3634#issuecomment-2886333186) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
+6. 💪 Opened PR [#3634](https://github.com/crowdsecurity/crowdsec/pull/3634) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
+7. ❗ Opened issue [#3632](https://github.com/crowdsecurity/crowdsec/issues/3632) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
+8. 🎉 Merged PR [#2286](https://github.com/bunkerity/bunkerweb/pull/2286) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 💪 Opened PR [#2286](https://github.com/bunkerity/bunkerweb/pull/2286) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🎉 Merged PR [#2284](https://github.com/bunkerity/bunkerweb/pull/2284) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
