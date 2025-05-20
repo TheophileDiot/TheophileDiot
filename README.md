@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2250](https://github.com/bunkerity/bunkerweb/issues/2250#issuecomment-2893142185) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 🎉 Merged PR [#2298](https://github.com/bunkerity/bunkerweb/pull/2298) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 💪 Opened PR [#2298](https://github.com/bunkerity/bunkerweb/pull/2298) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🎉 Merged PR [#2297](https://github.com/bunkerity/bunkerweb/pull/2297) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 💪 Opened PR [#2297](https://github.com/bunkerity/bunkerweb/pull/2297) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🎉 Merged PR [#2296](https://github.com/bunkerity/bunkerweb/pull/2296) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 💪 Opened PR [#2296](https://github.com/bunkerity/bunkerweb/pull/2296) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#2290](https://github.com/bunkerity/bunkerweb/pull/2290#issuecomment-2890128399) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🎉 Merged PR [#2295](https://github.com/bunkerity/bunkerweb/pull/2295) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 💪 Opened PR [#2295](https://github.com/bunkerity/bunkerweb/pull/2295) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🎉 Merged PR [#2264](https://github.com/bunkerity/bunkerweb/pull/2264) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 🎉 Merged PR [#2287](https://github.com/bunkerity/bunkerweb/pull/2287) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🎉 Merged PR [#2293](https://github.com/bunkerity/bunkerweb/pull/2293) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🎉 Merged PR [#2294](https://github.com/bunkerity/bunkerweb/pull/2294) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 🗣 Commented on [#2250](https://github.com/bunkerity/bunkerweb/issues/2250#issuecomment-2893291790) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🗣 Commented on [#2250](https://github.com/bunkerity/bunkerweb/issues/2250#issuecomment-2893142185) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🎉 Merged PR [#2298](https://github.com/bunkerity/bunkerweb/pull/2298) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 💪 Opened PR [#2298](https://github.com/bunkerity/bunkerweb/pull/2298) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 🎉 Merged PR [#2297](https://github.com/bunkerity/bunkerweb/pull/2297) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 💪 Opened PR [#2297](https://github.com/bunkerity/bunkerweb/pull/2297) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
