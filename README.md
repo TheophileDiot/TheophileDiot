@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2500](https://github.com/bunkerity/bunkerweb/issues/2500#issuecomment-3061353216) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 🗣 Commented on [#2500](https://github.com/bunkerity/bunkerweb/issues/2500#issuecomment-3061352089) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 🗣 Commented on [#2504](https://github.com/bunkerity/bunkerweb/issues/2504#issuecomment-3060949119) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 💪 Opened PR [#104](https://github.com/TheophileDiot/Omnitron/pull/104) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-5. 🗣 Commented on [#5707](https://github.com/community-scripts/ProxmoxVE/pull/5707#issuecomment-3043887085) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-6. 💪 Opened PR [#5707](https://github.com/community-scripts/ProxmoxVE/pull/5707) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-7. 🔒 Closed issue [#2489](https://github.com/bunkerity/bunkerweb/issues/2489) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#2479](https://github.com/bunkerity/bunkerweb/issues/2479#issuecomment-3036685306) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🔒 Closed issue [#1995](https://github.com/bunkerity/bunkerweb/issues/1995) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🔒 Closed issue [#2236](https://github.com/bunkerity/bunkerweb/issues/2236) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#1979](https://github.com/bunkerity/bunkerweb/issues/1979#issuecomment-3077980601) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 🔒 Closed issue [#1979](https://github.com/bunkerity/bunkerweb/issues/1979) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🗣 Commented on [#2500](https://github.com/bunkerity/bunkerweb/issues/2500#issuecomment-3061353216) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🗣 Commented on [#2500](https://github.com/bunkerity/bunkerweb/issues/2500#issuecomment-3061352089) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 🗣 Commented on [#2504](https://github.com/bunkerity/bunkerweb/issues/2504#issuecomment-3060949119) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 💪 Opened PR [#104](https://github.com/TheophileDiot/Omnitron/pull/104) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
+7. 🗣 Commented on [#5707](https://github.com/community-scripts/ProxmoxVE/pull/5707#issuecomment-3043887085) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+8. 💪 Opened PR [#5707](https://github.com/community-scripts/ProxmoxVE/pull/5707) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+9. 🔒 Closed issue [#2489](https://github.com/bunkerity/bunkerweb/issues/2489) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🗣 Commented on [#2479](https://github.com/bunkerity/bunkerweb/issues/2479#issuecomment-3036685306) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
