@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#3450](https://github.com/owasp-modsecurity/ModSecurity/issues/3450) in [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
-2. ❗ Opened issue [#3450](https://github.com/owasp-modsecurity/ModSecurity/issues/3450) in [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
-3. 🗣 Commented on [#2750](https://github.com/bunkerity/bunkerweb/issues/2750#issuecomment-3421152551) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🗣 Commented on [#2674](https://github.com/bunkerity/bunkerweb/issues/2674#issuecomment-3421131184) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Assigned issue [#2681](https://github.com/bunkerity/bunkerweb/issues/2681) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6.  Assigned issue [#2747](https://github.com/bunkerity/bunkerweb/issues/2747) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#2747](https://github.com/bunkerity/bunkerweb/issues/2747#issuecomment-3421053319) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#2747](https://github.com/bunkerity/bunkerweb/issues/2747#issuecomment-3421050798) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Assigned issue [#2774](https://github.com/bunkerity/bunkerweb/issues/2774) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🔒 Closed issue [#2793](https://github.com/bunkerity/bunkerweb/issues/2793) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#3450](https://github.com/owasp-modsecurity/ModSecurity/issues/3450#issuecomment-3424906932) in [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
+2.  Labeled issue [#3450](https://github.com/owasp-modsecurity/ModSecurity/issues/3450) in [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
+3. ❗ Opened issue [#3450](https://github.com/owasp-modsecurity/ModSecurity/issues/3450) in [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
+4. 🗣 Commented on [#2750](https://github.com/bunkerity/bunkerweb/issues/2750#issuecomment-3421152551) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 🗣 Commented on [#2674](https://github.com/bunkerity/bunkerweb/issues/2674#issuecomment-3421131184) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6.  Assigned issue [#2681](https://github.com/bunkerity/bunkerweb/issues/2681) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Assigned issue [#2747](https://github.com/bunkerity/bunkerweb/issues/2747) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 🗣 Commented on [#2747](https://github.com/bunkerity/bunkerweb/issues/2747#issuecomment-3421053319) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 🗣 Commented on [#2747](https://github.com/bunkerity/bunkerweb/issues/2747#issuecomment-3421050798) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Assigned issue [#2774](https://github.com/bunkerity/bunkerweb/issues/2774) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
