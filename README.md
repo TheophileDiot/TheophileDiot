@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2854](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#2850](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 💪 Opened PR [#2849](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 💪 Opened PR [#2848](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 💪 Opened PR [#2847](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. ❌ Closed PR [#2670](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#2711](https://github.com/bunkerity/bunkerweb/pull/2711#issuecomment-3468839055) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. ❌ Closed PR [#2711](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 💪 Opened PR [#2845](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 💪 Opened PR [#2844](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1.  Assigned issue [#2846](https://github.com/bunkerity/bunkerweb/issues/2846) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 🗣 Commented on [#2846](https://github.com/bunkerity/bunkerweb/issues/2846#issuecomment-3472213174) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3.  Labeled issue [#2838](https://github.com/bunkerity/bunkerweb/issues/2838) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4.  Assigned issue [#2838](https://github.com/bunkerity/bunkerweb/issues/2838) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 🗣 Commented on [#2838](https://github.com/bunkerity/bunkerweb/issues/2838#issuecomment-3472207112) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 💪 Opened PR [#2854](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 💪 Opened PR [#2850](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 💪 Opened PR [#2849](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 💪 Opened PR [#2848](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 💪 Opened PR [#2847](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
