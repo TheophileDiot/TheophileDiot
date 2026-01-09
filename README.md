@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#3042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 🔒 Closed issue [#2434](https://github.com/bunkerity/bunkerweb/issues/2434) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🔒 Closed issue [#2871](https://github.com/bunkerity/bunkerweb/issues/2871) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Assigned PR [#107](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-6. 💪 Opened PR [#107](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-7. ❌ Merged PR [#3040](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 💪 Opened PR [#3040](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Labeled issue [#3027](https://github.com/bunkerity/bunkerweb/issues/3027) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#3027](https://github.com/bunkerity/bunkerweb/issues/3027#issuecomment-3723096537) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1.  Labeled issue [#2927](https://github.com/bunkerity/bunkerweb/issues/2927) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. ❌ Merged PR [#3043](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 💪 Opened PR [#3043](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. ❌ Merged PR [#3042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 💪 Opened PR [#3042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🔒 Closed issue [#2434](https://github.com/bunkerity/bunkerweb/issues/2434) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🔒 Closed issue [#2871](https://github.com/bunkerity/bunkerweb/issues/2871) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. ❌ Assigned PR [#107](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
+9. 💪 Opened PR [#107](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
+10. ❌ Merged PR [#3040](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
