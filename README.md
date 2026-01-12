@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#2927](https://github.com/bunkerity/bunkerweb/issues/2927) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. ❌ Merged PR [#3043](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 💪 Opened PR [#3043](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. ❌ Merged PR [#3042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 💪 Opened PR [#3042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🔒 Closed issue [#2434](https://github.com/bunkerity/bunkerweb/issues/2434) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🔒 Closed issue [#2871](https://github.com/bunkerity/bunkerweb/issues/2871) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. ❌ Assigned PR [#107](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-9. 💪 Opened PR [#107](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-10. ❌ Merged PR [#3040](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#3044](https://github.com/bunkerity/bunkerweb/issues/3044#issuecomment-3737408548) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Assigned issue [#3044](https://github.com/bunkerity/bunkerweb/issues/3044) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🔒 Closed issue [#3027](https://github.com/bunkerity/bunkerweb/issues/3027) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🗣 Commented on [#3027](https://github.com/bunkerity/bunkerweb/issues/3027#issuecomment-3737399016) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 🔒 Closed issue [#3021](https://github.com/bunkerity/bunkerweb/issues/3021) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🗣 Commented on [#3021](https://github.com/bunkerity/bunkerweb/issues/3021#issuecomment-3737397914) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🗣 Commented on [#2970](https://github.com/bunkerity/bunkerweb/issues/2970#issuecomment-3737397101) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 🔒 Closed issue [#2970](https://github.com/bunkerity/bunkerweb/issues/2970) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 🔒 Closed issue [#2934](https://github.com/bunkerity/bunkerweb/issues/2934) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🗣 Commented on [#2934](https://github.com/bunkerity/bunkerweb/issues/2934#issuecomment-3737395876) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
