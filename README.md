@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#3056](https://github.com/bunkerity/bunkerweb/issues/3056) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 🗣 Commented on [#3057](https://github.com/bunkerity/bunkerweb/issues/3057#issuecomment-3748865424) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3.  Assigned issue [#3057](https://github.com/bunkerity/bunkerweb/issues/3057) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🗣 Commented on [#3057](https://github.com/bunkerity/bunkerweb/issues/3057#issuecomment-3748714330) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Assigned issue [#3056](https://github.com/bunkerity/bunkerweb/issues/3056) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#3056](https://github.com/bunkerity/bunkerweb/issues/3056#issuecomment-3748703933) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🔒 Closed issue [#3054](https://github.com/bunkerity/bunkerweb/issues/3054) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#3054](https://github.com/bunkerity/bunkerweb/issues/3054#issuecomment-3748700387) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 💪 Opened PR [#9](undefined) in [TheophileDiot/ionic-portfolio](https://github.com/TheophileDiot/ionic-portfolio)
-10. 🔒 Closed issue [#3044](https://github.com/bunkerity/bunkerweb/issues/3044) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1.  Unlabeled issue [#3052](https://github.com/bunkerity/bunkerweb/issues/3052) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Labeled issue [#3056](https://github.com/bunkerity/bunkerweb/issues/3056) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🗣 Commented on [#3057](https://github.com/bunkerity/bunkerweb/issues/3057#issuecomment-3748865424) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4.  Assigned issue [#3057](https://github.com/bunkerity/bunkerweb/issues/3057) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 🗣 Commented on [#3057](https://github.com/bunkerity/bunkerweb/issues/3057#issuecomment-3748714330) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6.  Assigned issue [#3056](https://github.com/bunkerity/bunkerweb/issues/3056) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🗣 Commented on [#3056](https://github.com/bunkerity/bunkerweb/issues/3056#issuecomment-3748703933) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 🔒 Closed issue [#3054](https://github.com/bunkerity/bunkerweb/issues/3054) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 🗣 Commented on [#3054](https://github.com/bunkerity/bunkerweb/issues/3054#issuecomment-3748700387) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 💪 Opened PR [#9](undefined) in [TheophileDiot/ionic-portfolio](https://github.com/TheophileDiot/ionic-portfolio)
 <!--END_SECTION:activity-->
 
 ---
