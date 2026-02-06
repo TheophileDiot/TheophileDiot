@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#269](undefined) in [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
-2. 💪 Opened PR [#613](undefined) in [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
-3. ❌ Closed PR [#3103](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. ❌ Closed PR [#3041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Closed PR [#3035](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. ❌ Closed PR [#2954](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. ❌ Closed PR [#2955](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. ❌ Closed PR [#2953](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. ❌ Merged PR [#3160](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 💪 Opened PR [#3160](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 💪 Opened PR [#134](undefined) in [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
+2. 💪 Opened PR [#1051](undefined) in [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+3. 💪 Opened PR [#279](undefined) in [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
+4. 💪 Opened PR [#551](undefined) in [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
+5. 💪 Opened PR [#623](undefined) in [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
+6. 💪 Opened PR [#269](undefined) in [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+7. 💪 Opened PR [#613](undefined) in [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+8. ❌ Closed PR [#3103](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. ❌ Closed PR [#3041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. ❌ Closed PR [#3035](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
