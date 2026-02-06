@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](undefined) in [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples)
-2. 💪 Opened PR [#670](undefined) in [docker/awesome-compose](https://github.com/docker/awesome-compose)
-3. ❌ Assigned PR [#108](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-4. 💪 Opened PR [#108](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
-5. ❌ Merged PR [#3148](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 💪 Opened PR [#3148](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. ❌ Closed PR [#3145](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Assigned issue [#3135](https://github.com/bunkerity/bunkerweb/issues/3135) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#3135](https://github.com/bunkerity/bunkerweb/issues/3135#issuecomment-3842318862) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Assigned issue [#3134](https://github.com/bunkerity/bunkerweb/issues/3134) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1.  Assigned issue [#3159](https://github.com/bunkerity/bunkerweb/issues/3159) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Unlabeled issue [#3159](https://github.com/bunkerity/bunkerweb/issues/3159) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3.  Labeled issue [#3159](https://github.com/bunkerity/bunkerweb/issues/3159) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🗣 Commented on [#3159](https://github.com/bunkerity/bunkerweb/issues/3159#issuecomment-3859532200) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 💪 Opened PR [#667](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+6. 💪 Opened PR [#1237](undefined) in [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
+7. 💪 Opened PR [#41](undefined) in [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples)
+8. 💪 Opened PR [#670](undefined) in [docker/awesome-compose](https://github.com/docker/awesome-compose)
+9. ❌ Assigned PR [#108](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
+10. 💪 Opened PR [#108](undefined) in [TheophileDiot/Omnitron](https://github.com/TheophileDiot/Omnitron)
 <!--END_SECTION:activity-->
 
 ---
