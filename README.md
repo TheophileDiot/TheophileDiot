@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3160](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#917](undefined) in [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-3. ❌ Closed PR [#3157](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4.  Assigned issue [#3159](https://github.com/bunkerity/bunkerweb/issues/3159) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Unlabeled issue [#3159](https://github.com/bunkerity/bunkerweb/issues/3159) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6.  Labeled issue [#3159](https://github.com/bunkerity/bunkerweb/issues/3159) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#3159](https://github.com/bunkerity/bunkerweb/issues/3159#issuecomment-3859532200) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 💪 Opened PR [#667](undefined) in [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-9. 💪 Opened PR [#1237](undefined) in [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
-10. 💪 Opened PR [#41](undefined) in [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples)
+1. 💪 Opened PR [#269](undefined) in [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+2. 💪 Opened PR [#613](undefined) in [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+3. ❌ Closed PR [#3103](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. ❌ Closed PR [#3041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. ❌ Closed PR [#3035](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. ❌ Closed PR [#2954](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. ❌ Closed PR [#2955](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. ❌ Closed PR [#2953](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. ❌ Merged PR [#3160](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 💪 Opened PR [#3160](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
