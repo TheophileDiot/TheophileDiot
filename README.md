@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2099](https://github.com/bunkerity/bunkerweb/issues/2099#issuecomment-3876822280) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2.  Labeled issue [#2099](https://github.com/bunkerity/bunkerweb/issues/2099) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3.  Labeled issue [#2099](https://github.com/bunkerity/bunkerweb/issues/2099) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4.  Assigned issue [#2099](https://github.com/bunkerity/bunkerweb/issues/2099) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Merged PR [#917](undefined) in [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-6. ❌ Merged PR [#3165](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 💪 Opened PR [#3165](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Labeled issue [#3162](https://github.com/bunkerity/bunkerweb/issues/3162) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Assigned issue [#3162](https://github.com/bunkerity/bunkerweb/issues/3162) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#3162](https://github.com/bunkerity/bunkerweb/issues/3162#issuecomment-3870214767) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#3171](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 💪 Opened PR [#3171](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🗣 Commented on [#2099](https://github.com/bunkerity/bunkerweb/issues/2099#issuecomment-3876822280) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4.  Labeled issue [#2099](https://github.com/bunkerity/bunkerweb/issues/2099) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5.  Labeled issue [#2099](https://github.com/bunkerity/bunkerweb/issues/2099) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6.  Assigned issue [#2099](https://github.com/bunkerity/bunkerweb/issues/2099) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. ❌ Merged PR [#917](undefined) in [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+8. ❌ Merged PR [#3165](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 💪 Opened PR [#3165](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#3162](https://github.com/bunkerity/bunkerweb/issues/3162) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
