@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3226](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#3226](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 🗣 Commented on [#3206](https://github.com/bunkerity/bunkerweb/pull/3206#issuecomment-3959944708) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. ❌ Merged PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-5.  Labeled issue [#3222](https://github.com/bunkerity/bunkerweb/issues/3222) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#5](https://github.com/bunkerity/bunkerweb-templates/pull/5#issuecomment-3958038588) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-7. 💪 Opened PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-8. ❌ Assigned PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-9. ❌ Assigned PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-10. 🗣 Commented on [#3](https://github.com/bunkerity/bunkerweb-templates/pull/3#issuecomment-3957799353) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+1. ❌ Merged PR [#3227](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 💪 Opened PR [#3227](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Merged PR [#3226](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 💪 Opened PR [#3226](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 🗣 Commented on [#3206](https://github.com/bunkerity/bunkerweb/pull/3206#issuecomment-3959944708) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. ❌ Merged PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+7.  Labeled issue [#3222](https://github.com/bunkerity/bunkerweb/issues/3222) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 🗣 Commented on [#5](https://github.com/bunkerity/bunkerweb-templates/pull/5#issuecomment-3958038588) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+9. 💪 Opened PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+10. ❌ Assigned PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
 <!--END_SECTION:activity-->
 
 ---
