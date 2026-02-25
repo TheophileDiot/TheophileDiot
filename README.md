@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#3222](https://github.com/bunkerity/bunkerweb/issues/3222) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 🗣 Commented on [#3222](https://github.com/bunkerity/bunkerweb/issues/3222#issuecomment-3957678257) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3.  Labeled issue [#3216](https://github.com/bunkerity/bunkerweb/issues/3216) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🗣 Commented on [#2934](https://github.com/bunkerity/bunkerweb/issues/2934#issuecomment-3950395686) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Merged PR [#1237](undefined) in [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
-6. ❌ Merged PR [#3221](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 💪 Opened PR [#3221](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. ❌ Merged PR [#3220](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 💪 Opened PR [#3220](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#3216](https://github.com/bunkerity/bunkerweb/issues/3216#issuecomment-3945531657) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#5](https://github.com/bunkerity/bunkerweb-templates/pull/5#issuecomment-3958038588) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+2. 💪 Opened PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+3. ❌ Assigned PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+4. ❌ Assigned PR [#9](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+5. 🗣 Commented on [#3](https://github.com/bunkerity/bunkerweb-templates/pull/3#issuecomment-3957799353) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+6. 🗣 Commented on [#5](https://github.com/bunkerity/bunkerweb-templates/pull/5#issuecomment-3957798264) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+7. 🗣 Commented on [#378](https://github.com/Lissy93/awesome-privacy/pull/378#issuecomment-3957723792) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+8.  Assigned issue [#3222](https://github.com/bunkerity/bunkerweb/issues/3222) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 🗣 Commented on [#3222](https://github.com/bunkerity/bunkerweb/issues/3222#issuecomment-3957678257) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#3216](https://github.com/bunkerity/bunkerweb/issues/3216) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
