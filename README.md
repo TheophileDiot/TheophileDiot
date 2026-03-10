@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#378](https://github.com/Lissy93/awesome-privacy/pull/378#issuecomment-4024786788) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
-2. ❌ Closed PR [#1](undefined) in [TheophileDiot/Lissy93-awesome-privacy](https://github.com/TheophileDiot/Lissy93-awesome-privacy)
-3. 💪 Opened PR [#1](undefined) in [TheophileDiot/Lissy93-awesome-privacy](https://github.com/TheophileDiot/Lissy93-awesome-privacy)
-4. 🗣 Commented on [#310](https://github.com/wmariuss/awesome-devops/pull/310#issuecomment-4024610964) in [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
-5. ❌ Merged PR [#13](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-6. 💪 Opened PR [#13](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-7. ❌ Merged PR [#3286](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 💪 Opened PR [#3286](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. ❌ Closed PR [#3285](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 💪 Opened PR [#3285](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#3301](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 💪 Opened PR [#3301](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🗣 Commented on [#378](https://github.com/Lissy93/awesome-privacy/pull/378#issuecomment-4024786788) in [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+4. ❌ Closed PR [#1](undefined) in [TheophileDiot/Lissy93-awesome-privacy](https://github.com/TheophileDiot/Lissy93-awesome-privacy)
+5. 💪 Opened PR [#1](undefined) in [TheophileDiot/Lissy93-awesome-privacy](https://github.com/TheophileDiot/Lissy93-awesome-privacy)
+6. 🗣 Commented on [#310](https://github.com/wmariuss/awesome-devops/pull/310#issuecomment-4024610964) in [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
+7. ❌ Merged PR [#13](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+8. 💪 Opened PR [#13](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+9. ❌ Merged PR [#3286](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 💪 Opened PR [#3286](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
