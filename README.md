@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [TheophileDiot/gnome-public-ip-extension](https://github.com/TheophileDiot/gnome-public-ip-extension)
-2. 💪 Opened PR [#1](undefined) in [TheophileDiot/gnome-public-ip-extension](https://github.com/TheophileDiot/gnome-public-ip-extension)
-3. 💪 Opened PR [#13](undefined) in [growing/gnome-public-ip-extension](https://github.com/growing/gnome-public-ip-extension)
-4. 🗣 Commented on [#3348](https://github.com/bunkerity/bunkerweb/issues/3348#issuecomment-4096543325) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 🗣 Commented on [#3363](https://github.com/bunkerity/bunkerweb/issues/3363#issuecomment-4089551502) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#3348](https://github.com/bunkerity/bunkerweb/issues/3348#issuecomment-4088716213) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#3348](https://github.com/bunkerity/bunkerweb/issues/3348#issuecomment-4088651164) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#3348](https://github.com/bunkerity/bunkerweb/issues/3348#issuecomment-4088631230) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#3348](https://github.com/bunkerity/bunkerweb/issues/3348#issuecomment-4088630376) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#3348](https://github.com/bunkerity/bunkerweb/issues/3348#issuecomment-4088603217) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1.  Assigned issue [#3347](https://github.com/bunkerity/bunkerweb/issues/3347) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Labeled issue [#3347](https://github.com/bunkerity/bunkerweb/issues/3347) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🗣 Commented on [#3347](https://github.com/bunkerity/bunkerweb/issues/3347#issuecomment-4108908004) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4.  Labeled issue [#3351](https://github.com/bunkerity/bunkerweb/issues/3351) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5.  Assigned issue [#3351](https://github.com/bunkerity/bunkerweb/issues/3351) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6.  Assigned issue [#3316](https://github.com/bunkerity/bunkerweb/issues/3316) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🗣 Commented on [#3316](https://github.com/bunkerity/bunkerweb/issues/3316#issuecomment-4108877549) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. ❌ Merged PR [#1](undefined) in [TheophileDiot/gnome-public-ip-extension](https://github.com/TheophileDiot/gnome-public-ip-extension)
+9. 💪 Opened PR [#1](undefined) in [TheophileDiot/gnome-public-ip-extension](https://github.com/TheophileDiot/gnome-public-ip-extension)
+10. 💪 Opened PR [#13](undefined) in [growing/gnome-public-ip-extension](https://github.com/growing/gnome-public-ip-extension)
 <!--END_SECTION:activity-->
 
 ---
