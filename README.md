@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3154](https://github.com/bunkerity/bunkerweb/issues/3154#issuecomment-4236945076) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#10](undefined) in [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security)
-3. 💪 Opened PR [#68](undefined) in [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab)
-4. 🗣 Commented on [#147](https://github.com/bunkerity/bunkerweb-plugins/pull/147#issuecomment-4235408284) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
-5. 🗣 Commented on [#3415](https://github.com/bunkerity/bunkerweb/issues/3415#issuecomment-4235227055) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6.  Assigned issue [#3415](https://github.com/bunkerity/bunkerweb/issues/3415) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7.  Unlabeled issue [#3415](https://github.com/bunkerity/bunkerweb/issues/3415) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Labeled issue [#3415](https://github.com/bunkerity/bunkerweb/issues/3415) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#106](https://github.com/bunkerity/bunkerweb-plugins/pull/106#issuecomment-4235216371) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
-10. 🗣 Commented on [#147](https://github.com/bunkerity/bunkerweb-plugins/pull/147#issuecomment-4235006830) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+1. 💪 Opened PR [#352](undefined) in [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+2. 🗣 Commented on [#3154](https://github.com/bunkerity/bunkerweb/issues/3154#issuecomment-4236945076) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 💪 Opened PR [#10](undefined) in [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security)
+4. 💪 Opened PR [#68](undefined) in [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab)
+5. 🗣 Commented on [#147](https://github.com/bunkerity/bunkerweb-plugins/pull/147#issuecomment-4235408284) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+6. 🗣 Commented on [#3415](https://github.com/bunkerity/bunkerweb/issues/3415#issuecomment-4235227055) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Assigned issue [#3415](https://github.com/bunkerity/bunkerweb/issues/3415) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8.  Unlabeled issue [#3415](https://github.com/bunkerity/bunkerweb/issues/3415) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9.  Labeled issue [#3415](https://github.com/bunkerity/bunkerweb/issues/3415) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🗣 Commented on [#106](https://github.com/bunkerity/bunkerweb-plugins/pull/106#issuecomment-4235216371) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
 <!--END_SECTION:activity-->
 
 ---
