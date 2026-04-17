@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#3154](https://github.com/bunkerity/bunkerweb/issues/3154) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 🗣 Commented on [#3154](https://github.com/bunkerity/bunkerweb/issues/3154#issuecomment-4267080590) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 💪 Opened PR [#11](undefined) in [Metarget/awesome-cloud-native-security](https://github.com/Metarget/awesome-cloud-native-security)
-4. ❌ Merged PR [#45](undefined) in [magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
-5.  Assigned issue [#2998](https://github.com/bunkerity/bunkerweb/issues/2998) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6.  Labeled issue [#2998](https://github.com/bunkerity/bunkerweb/issues/2998) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#2998](https://github.com/bunkerity/bunkerweb/issues/2998#issuecomment-4250014448) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 💪 Opened PR [#45](undefined) in [magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
-9. 💪 Opened PR [#40](undefined) in [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security)
-10. 💪 Opened PR [#154](undefined) in [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
+1.  Assigned issue [#3437](https://github.com/bunkerity/bunkerweb/issues/3437) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Labeled issue [#3437](https://github.com/bunkerity/bunkerweb/issues/3437) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🔓 Reopened issue [#2211](https://github.com/bunkerity/bunkerweb/issues/2211) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🗣 Commented on [#2211](https://github.com/bunkerity/bunkerweb/issues/2211#issuecomment-4267196313) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5.  Unlabeled issue [#3154](https://github.com/bunkerity/bunkerweb/issues/3154) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🗣 Commented on [#3154](https://github.com/bunkerity/bunkerweb/issues/3154#issuecomment-4267080590) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 💪 Opened PR [#11](undefined) in [Metarget/awesome-cloud-native-security](https://github.com/Metarget/awesome-cloud-native-security)
+8. ❌ Merged PR [#45](undefined) in [magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
+9.  Assigned issue [#2998](https://github.com/bunkerity/bunkerweb/issues/2998) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#2998](https://github.com/bunkerity/bunkerweb/issues/2998) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
