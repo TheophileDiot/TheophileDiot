@@ -22,16 +22,16 @@ I'm Théophile Diot, I'm 24 years old and a passionate Software engineer from Fr
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3468](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#3468](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. ❌ Merged PR [#3467](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 💪 Opened PR [#3467](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Assigned issue [#229](https://github.com/tiagozip/cap/issues/229) in [tiagozip/cap](https://github.com/tiagozip/cap)
-6. ❗ Opened issue [#229](https://github.com/tiagozip/cap/issues/229) in [tiagozip/cap](https://github.com/tiagozip/cap)
-7. 🔒 Closed issue [#3386](https://github.com/bunkerity/bunkerweb/issues/3386) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#3386](https://github.com/bunkerity/bunkerweb/issues/3386#issuecomment-4294772574) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. ❌ Labeled PR [#3454](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. ❌ Assigned PR [#3454](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#3469](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 💪 Opened PR [#3469](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Merged PR [#3468](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 💪 Opened PR [#3468](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. ❌ Merged PR [#3467](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 💪 Opened PR [#3467](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Assigned issue [#229](https://github.com/tiagozip/cap/issues/229) in [tiagozip/cap](https://github.com/tiagozip/cap)
+8. ❗ Opened issue [#229](https://github.com/tiagozip/cap/issues/229) in [tiagozip/cap](https://github.com/tiagozip/cap)
+9. 🔒 Closed issue [#3386](https://github.com/bunkerity/bunkerweb/issues/3386) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🗣 Commented on [#3386](https://github.com/bunkerity/bunkerweb/issues/3386#issuecomment-4294772574) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 ---
