@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/TheophileDiot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Bunkerity;Building+BunkerWeb%2C+the+next-gen+open-source+WAF;Python+%E2%9D%A4%EF%B8%8F+Open+source" alt="Software Engineer at Bunkerity, building BunkerWeb" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+Bunkerity;Building+BunkerWeb%2C+the+next-gen+open-source+WAF;Python+%E2%9D%A4%EF%B8%8F+Open+source" alt="Software Engineer at Bunkerity, building BunkerWeb" />
   </a>
 </p>
 
