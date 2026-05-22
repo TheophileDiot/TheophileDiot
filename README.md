@@ -76,16 +76,16 @@
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/bunkerity/bunkerweb-helm/issues/54#issuecomment-4519046863) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-2. 🔒 Closed issue [#67](https://github.com/bunkerity/bunkerweb-helm/issues/67) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-3. 🔒 Closed issue [#70](https://github.com/bunkerity/bunkerweb-helm/issues/70) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-4. ❌ Merged PR [#76](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-5. 💪 Opened PR [#76](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-6. ❌ Merged PR [#3585](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 💪 Opened PR [#3585](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Assigned issue [#70](https://github.com/bunkerity/bunkerweb-helm/issues/70) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-9.  Assigned issue [#67](https://github.com/bunkerity/bunkerweb-helm/issues/67) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-10. 🗣 Commented on [#68](https://github.com/bunkerity/bunkerweb-helm/pull/68#issuecomment-4517676699) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+1. 🗣 Commented on [#13866](https://github.com/NousResearch/hermes-agent/issues/13866#issuecomment-4519822788) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. 🗣 Commented on [#3528](https://github.com/bunkerity/bunkerweb/pull/3528#issuecomment-4519632325) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Assigned PR [#3528](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. ❌ Closed PR [#3322](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. ❌ Closed PR [#3261](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. ❌ Closed PR [#3439](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. ❌ Closed PR [#3425](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. ❌ Closed PR [#3515](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. ❌ Closed PR [#3424](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. ❌ Closed PR [#3423](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect</h3>
