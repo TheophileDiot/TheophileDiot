@@ -76,16 +76,16 @@
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
-2. 🗣 Commented on [#3618](https://github.com/bunkerity/bunkerweb/issues/3618#issuecomment-4720535437) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3.  Labeled issue [#3618](https://github.com/bunkerity/bunkerweb/issues/3618) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🗣 Commented on [#3308](https://github.com/bunkerity/bunkerweb/issues/3308#issuecomment-4720505464) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 🗣 Commented on [#3392](https://github.com/bunkerity/bunkerweb/issues/3392#issuecomment-4720499037) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🔒 Closed issue [#3392](https://github.com/bunkerity/bunkerweb/issues/3392) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7.  Assigned issue [#3392](https://github.com/bunkerity/bunkerweb/issues/3392) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🔒 Closed issue [#3506](https://github.com/bunkerity/bunkerweb/issues/3506) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🔒 Closed issue [#3598](https://github.com/bunkerity/bunkerweb/issues/3598) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Labeled issue [#3610](https://github.com/bunkerity/bunkerweb/issues/3610) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#3](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+2. 💪 Opened PR [#3](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+3.  Labeled issue [#3374](https://github.com/bunkerity/bunkerweb/issues/3374) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🗣 Commented on [#3374](https://github.com/bunkerity/bunkerweb/issues/3374#issuecomment-4721523310) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5.  Assigned issue [#3374](https://github.com/bunkerity/bunkerweb/issues/3374) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🚀 Published release [AppIndicator Hider v0.1.0](https://github.com/TheophileDiot/appindicator-hider/releases/tag/v0.1.0) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+7. ❌ Merged PR [#1](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+8. 💪 Opened PR [#1](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+9. 🗣 Commented on [#3618](https://github.com/bunkerity/bunkerweb/issues/3618#issuecomment-4720535437) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#3618](https://github.com/bunkerity/bunkerweb/issues/3618) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect</h3>
