@@ -76,16 +76,16 @@
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
-2. 💪 Opened PR [#3](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
-3.  Labeled issue [#3374](https://github.com/bunkerity/bunkerweb/issues/3374) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🗣 Commented on [#3374](https://github.com/bunkerity/bunkerweb/issues/3374#issuecomment-4721523310) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Assigned issue [#3374](https://github.com/bunkerity/bunkerweb/issues/3374) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🚀 Published release [AppIndicator Hider v0.1.0](https://github.com/TheophileDiot/appindicator-hider/releases/tag/v0.1.0) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
-7. ❌ Merged PR [#1](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
-8. 💪 Opened PR [#1](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
-9. 🗣 Commented on [#3618](https://github.com/bunkerity/bunkerweb/issues/3618#issuecomment-4720535437) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Labeled issue [#3618](https://github.com/bunkerity/bunkerweb/issues/3618) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#4](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+2. 💪 Opened PR [#4](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+3. ❌ Merged PR [#3](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+4. 💪 Opened PR [#3](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+5.  Labeled issue [#3374](https://github.com/bunkerity/bunkerweb/issues/3374) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🗣 Commented on [#3374](https://github.com/bunkerity/bunkerweb/issues/3374#issuecomment-4721523310) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Assigned issue [#3374](https://github.com/bunkerity/bunkerweb/issues/3374) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 🚀 Published release [AppIndicator Hider v0.1.0](https://github.com/TheophileDiot/appindicator-hider/releases/tag/v0.1.0) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+9. ❌ Merged PR [#1](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+10. 💪 Opened PR [#1](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect</h3>
