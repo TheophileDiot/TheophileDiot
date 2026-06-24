@@ -76,16 +76,16 @@
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#85](https://github.com/bunkerity/bunkerweb-helm/issues/85) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-2. 💪 Opened PR [#6](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
-3.  Labeled issue [#85](https://github.com/bunkerity/bunkerweb-helm/issues/85) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-4.  Unlabeled issue [#3659](https://github.com/bunkerity/bunkerweb/issues/3659) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Labeled issue [#3659](https://github.com/bunkerity/bunkerweb/issues/3659) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. ❌ Merged PR [#3657](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 💪 Opened PR [#3657](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. ❌ Merged PR [#3656](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 💪 Opened PR [#3656](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 💪 Opened PR [#3653](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Closed PR [#3654](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Assigned issue [#85](https://github.com/bunkerity/bunkerweb-helm/issues/85) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+3. 💪 Opened PR [#6](undefined) in [TheophileDiot/appindicator-hider](https://github.com/TheophileDiot/appindicator-hider)
+4.  Labeled issue [#85](https://github.com/bunkerity/bunkerweb-helm/issues/85) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+5.  Unlabeled issue [#3659](https://github.com/bunkerity/bunkerweb/issues/3659) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6.  Labeled issue [#3659](https://github.com/bunkerity/bunkerweb/issues/3659) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. ❌ Merged PR [#3657](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 💪 Opened PR [#3657](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. ❌ Merged PR [#3656](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 💪 Opened PR [#3656](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect</h3>
