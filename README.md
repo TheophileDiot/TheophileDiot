@@ -76,16 +76,16 @@
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#378](undefined) in [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy)
-2. ❌ Merged PR [#3694](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 💪 Opened PR [#3694](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. ❌ Merged PR [#3693](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 💪 Opened PR [#3693](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#3688](https://github.com/bunkerity/bunkerweb/issues/3688#issuecomment-4855727469) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7.  Labeled issue [#3688](https://github.com/bunkerity/bunkerweb/issues/3688) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Assigned issue [#3688](https://github.com/bunkerity/bunkerweb/issues/3688) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#3688](https://github.com/bunkerity/bunkerweb/issues/3688#issuecomment-4852769420) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Unlabeled issue [#3685](https://github.com/bunkerity/bunkerweb/issues/3685) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1.  Labeled issue [#3700](https://github.com/bunkerity/bunkerweb/issues/3700) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Assigned issue [#3700](https://github.com/bunkerity/bunkerweb/issues/3700) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🗣 Commented on [#3700](https://github.com/bunkerity/bunkerweb/issues/3700#issuecomment-4915616286) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4.  Assigned issue [#3708](https://github.com/bunkerity/bunkerweb/issues/3708) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5.  Labeled issue [#3708](https://github.com/bunkerity/bunkerweb/issues/3708) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🗣 Commented on [#3708](https://github.com/bunkerity/bunkerweb/issues/3708#issuecomment-4915311658) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🔒 Closed issue [#3684](https://github.com/bunkerity/bunkerweb/issues/3684) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 🔒 Closed issue [#3659](https://github.com/bunkerity/bunkerweb/issues/3659) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 🔒 Closed issue [#3651](https://github.com/bunkerity/bunkerweb/issues/3651) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🔒 Closed issue [#3618](https://github.com/bunkerity/bunkerweb/issues/3618) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect</h3>
