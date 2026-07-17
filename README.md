@@ -76,16 +76,16 @@
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/bunkerity/bunkerweb-templates/pull/24#issuecomment-5003784455) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-2. 🗣 Commented on [#21](https://github.com/bunkerity/bunkerweb-templates/pull/21#issuecomment-5003784298) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-3. 🗣 Commented on [#20](https://github.com/bunkerity/bunkerweb-templates/pull/20#issuecomment-5003784123) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-4. 🗣 Commented on [#18](https://github.com/bunkerity/bunkerweb-templates/pull/18#issuecomment-5003783935) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-5. 🗣 Commented on [#24](https://github.com/bunkerity/bunkerweb-templates/pull/24#issuecomment-5003613138) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-6. 🗣 Commented on [#21](https://github.com/bunkerity/bunkerweb-templates/pull/21#issuecomment-5003612985) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-7. 🗣 Commented on [#20](https://github.com/bunkerity/bunkerweb-templates/pull/20#issuecomment-5003612851) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-8. 🗣 Commented on [#18](https://github.com/bunkerity/bunkerweb-templates/pull/18#issuecomment-5003612729) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-9. 🗣 Commented on [#20](https://github.com/bunkerity/bunkerweb-templates/pull/20#issuecomment-5003609841) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-10. 🗣 Commented on [#18](https://github.com/bunkerity/bunkerweb-templates/pull/18#issuecomment-5003609692) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+1. 🔒 Closed issue [#85](https://github.com/bunkerity/bunkerweb-helm/issues/85) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+2. ❌ Merged PR [#92](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+3. 💪 Opened PR [#92](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+4. 🗣 Commented on [#24](https://github.com/bunkerity/bunkerweb-templates/pull/24#issuecomment-5003784455) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+5. 🗣 Commented on [#21](https://github.com/bunkerity/bunkerweb-templates/pull/21#issuecomment-5003784298) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+6. 🗣 Commented on [#20](https://github.com/bunkerity/bunkerweb-templates/pull/20#issuecomment-5003784123) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+7. 🗣 Commented on [#18](https://github.com/bunkerity/bunkerweb-templates/pull/18#issuecomment-5003783935) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+8. 🗣 Commented on [#24](https://github.com/bunkerity/bunkerweb-templates/pull/24#issuecomment-5003613138) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+9. 🗣 Commented on [#21](https://github.com/bunkerity/bunkerweb-templates/pull/21#issuecomment-5003612985) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+10. 🗣 Commented on [#20](https://github.com/bunkerity/bunkerweb-templates/pull/20#issuecomment-5003612851) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect</h3>
