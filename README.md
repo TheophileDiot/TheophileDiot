@@ -45,10 +45,10 @@
 
 <p align="center">
   <a href="https://github.com/bunkerity/bunkerweb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bunkerity&repo=bunkerweb&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="BunkerWeb" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=bunkerity&repo=bunkerweb&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="BunkerWeb" />
   </a>
   <a href="https://github.com/TheophileDiot/ai-cli-observability">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheophileDiot&repo=ai-cli-observability&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AI CLI Observability" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=TheophileDiot&repo=ai-cli-observability&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AI CLI Observability" />
   </a>
 </p>
 
@@ -57,12 +57,11 @@
 <h3 align="center">GitHub stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheophileDiot&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="Théophile's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheophileDiot&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=TheophileDiot&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="Théophile's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
