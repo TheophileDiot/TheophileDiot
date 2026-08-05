@@ -25,7 +25,7 @@
 <h3 align="center">About</h3>
 
 <p align="center">
-  Software Engineer at <a href="https://www.bunkerity.com/">Bunkerity</a> · Maintainer of <a href="https://www.bunkerweb.io">BunkerWeb</a> · Creator of <a href="https://github.com/TheophileDiot/Omnitron">Omnitron</a>
+  Software Engineer at <a href="https://www.bunkerity.com/">Bunkerity</a> · Maintainer of <a href="https://www.bunkerweb.io">BunkerWeb</a> · Building <a href="https://github.com/TheophileDiot/ai-cli-observability">AI CLI Observability</a>
   <br />
   Based in France 🇫🇷 · Loves Python and shipping fun open-source experiments
 </p>
@@ -47,8 +47,8 @@
   <a href="https://github.com/bunkerity/bunkerweb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bunkerity&repo=bunkerweb&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="BunkerWeb" />
   </a>
-  <a href="https://github.com/TheophileDiot/Omnitron">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheophileDiot&repo=Omnitron&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Omnitron" />
+  <a href="https://github.com/TheophileDiot/ai-cli-observability">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheophileDiot&repo=ai-cli-observability&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AI CLI Observability" />
   </a>
 </p>
 
