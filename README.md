@@ -75,16 +75,16 @@
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3812](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#3812](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. ❌ Merged PR [#3811](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 💪 Opened PR [#3811](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Merged PR [#3809](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 💪 Opened PR [#3809](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. ❌ Merged PR [#3808](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 💪 Opened PR [#3808](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. ❌ Merged PR [#3806](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 💪 Opened PR [#3806](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 💪 Opened PR [#150](undefined) in [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
+2. 💪 Opened PR [#61](undefined) in [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering)
+3. 💪 Opened PR [#51](undefined) in [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security)
+4. 💪 Opened PR [#76](undefined) in [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)
+5. 💪 Opened PR [#150](undefined) in [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
+6. 💪 Opened PR [#591](undefined) in [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+7. ❌ Merged PR [#3812](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 💪 Opened PR [#3812](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. ❌ Merged PR [#3811](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 💪 Opened PR [#3811](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect</h3>
