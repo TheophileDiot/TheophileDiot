@@ -1,142 +1,26 @@
-<table>
-  <tr>
-    <td width="44%" valign="top">
-      <p><sub>THEOPHILE DIOT<br />OPEN-SOURCE SOFTWARE ENGINEER</sub></p>
-      <h1>Théophile Diot</h1>
-      <p>I build open-source software for web security and developer tools.</p>
-      <p>
-        Software Engineer at <a href="https://www.bunkerity.com/">Bunkerity</a><br />
-        Maintainer of <a href="https://github.com/bunkerity/bunkerweb">BunkerWeb</a><br />
-        Based in France 🇫🇷
-      </p>
-      <p>
-        <a href="https://github.com/bunkerity/bunkerweb">BunkerWeb ↗</a><br />
-        <a href="https://github.com/TheophileDiot/ai-cli-observability">AI CLI Observability ↗</a><br />
-        <a href="https://www.linkedin.com/in/theophile-diot/">LinkedIn ↗</a><br />
-        <a href="mailto:github.zouoy@passmail.net">Email ↗</a>
-      </p>
-    </td>
-    <td width="56%" valign="top">
-      <p><sub>NOW / CURRENT FIELD NOTE</sub></p>
-      <h2>BunkerWeb</h2>
-      <p>
-        At Bunkerity, I maintain BunkerWeb, support its community, and ship releases across Linux,
-        Docker, Swarm, and Kubernetes.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>Lua</code>
-        <code>NGINX</code>
-        <code>Docker</code>
-        <code>Kubernetes</code>
-      </p>
-    </td>
-  </tr>
-</table>
+# Hi, I'm Théophile 👋
 
-## Selected work
+Software Engineer at [Bunkerity](https://www.bunkerity.com/) and maintainer of [BunkerWeb](https://github.com/bunkerity/bunkerweb). I work on open-source web security and developer infrastructure.
 
-<table>
-  <tr>
-    <td width="24%" valign="top">
-      <p><sub>PROJECT 01</sub></p>
-      <p><strong>MAINTAINER</strong></p>
-      <p>
-        <code>Python</code><br />
-        <code>Lua</code><br />
-        <code>NGINX</code><br />
-        <code>Docker</code><br />
-        <code>Kubernetes</code>
-      </p>
-    </td>
-    <td width="76%" valign="top">
-      <h3>BunkerWeb</h3>
-      <p>
-        An open-source, cloud-native Web Application Firewall for secure-by-default web services.
-        It runs on NGINX and integrates with existing environments.
-      </p>
-      <p>
-        <a href="https://github.com/bunkerity/bunkerweb">Repository ↗</a> ·
-        <a href="https://docs.bunkerweb.io/">Documentation ↗</a> ·
-        <a href="https://demo.bunkerweb.io/">Live demo ↗</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top">
-      <p><sub>PROJECT 02</sub></p>
-      <p><strong>PERSONAL PROJECT</strong></p>
-      <p>
-        <code>OpenTelemetry</code><br />
-        <code>Grafana</code><br />
-        <code>Docker Compose</code>
-      </p>
-    </td>
-    <td width="76%" valign="top">
-      <h3>AI CLI Observability</h3>
-      <p>
-        A self-hosted observability stack for Codex, Claude Code, and Gemini CLI.
-        One Grafana view covers usage, latency, errors, tokens, traces, and estimated API-equivalent cost.
-      </p>
-      <p>
-        <a href="https://github.com/TheophileDiot/ai-cli-observability">Repository ↗</a> ·
-        <a href="https://github.com/TheophileDiot/ai-cli-observability#architecture">Architecture ↗</a>
-      </p>
-    </td>
-  </tr>
-</table>
+## Featured projects
 
-<details>
-  <summary><strong>Technical annex</strong> · AI CLI Observability system map</summary>
+### [BunkerWeb](https://github.com/bunkerity/bunkerweb)
 
-Codex, Claude Code, and Gemini CLI send OTLP/HTTP to an OpenTelemetry Collector.
-The collector routes logs to VictoriaLogs, metrics to VictoriaMetrics, and traces to VictoriaTraces; Grafana reads each store.
-A pricing exporter supplies model prices and the USD-to-EUR rate.
+**Maintainer** · `Python` · `Lua` · `NGINX` · `Docker` · `Kubernetes`
 
-```mermaid
-flowchart LR
-    C[Codex] -->|OTLP/HTTP + bearer| O[OpenTelemetry Collector]
-    A[Claude Code] -->|OTLP/HTTP + bearer| O
-    G[Gemini CLI] -->|OTLP/HTTP + bearer| O
-    P[Pricing exporter] -->|price files| O
-    P -->|EUR rate + pricing metrics| M[VictoriaMetrics]
-    O -->|logs| L[VictoriaLogs]
-    O -->|metrics| M
-    O -->|traces| T[VictoriaTraces]
-    L --> D[Grafana]
-    M --> D
-    T --> D
-```
+An open-source, cloud-native Web Application Firewall built on NGINX. I work on releases, integrations, and community contributions.
 
-</details>
+[Documentation](https://docs.bunkerweb.io/) · [Live demo](https://demo.bunkerweb.io/)
 
-## Signals
+### [AI CLI Observability](https://github.com/TheophileDiot/ai-cli-observability)
 
-<table>
-  <tr>
-    <td width="34%" valign="top">
-      <p><sub>BUNKERWEB</sub></p>
-      <a href="https://github.com/bunkerity/bunkerweb/stargazers">
-        <img src="https://img.shields.io/github/stars/bunkerity/bunkerweb?style=flat-square&amp;label=stars&amp;color=ac541f&amp;labelColor=01163b" alt="BunkerWeb GitHub stars" />
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <p><sub>WORK</sub></p>
-      <a href="https://github.com/TheophileDiot?tab=repositories">Public repositories ↗</a>
-    </td>
-    <td width="33%" valign="top">
-      <p><sub>ACTIVITY</sub></p>
-      Every 30 minutes
-    </td>
-  </tr>
-</table>
+**Creator** · `OpenTelemetry` · `Grafana` · `Docker Compose`
 
-## Toolkit
+A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Grafana view covers usage, latency, errors, tokens, traces, and estimated API-equivalent cost.
 
-`Python` · `Lua` · `Docker` · `NGINX` · `Kubernetes` · `Linux`
+[Dashboard](https://github.com/TheophileDiot/ai-cli-observability#dashboard)
 
-<details>
-  <summary><strong>Recent public activity</strong> · updated every 30 minutes</summary>
+## Recent activity
 
 <!-- This block is rewritten every 30 minutes by .github/workflows/activity.yml.
      The `undefined` placeholders that occasionally appear in PR links are an
@@ -154,13 +38,3 @@ flowchart LR
 9. 💪 Opened PR [#3812](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 10. ❌ Merged PR [#3811](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
-
-</details>
-
----
-
-If you work on open source, web security, or developer infrastructure, say hello.
-
-<a href="https://www.linkedin.com/in/theophile-diot/">LinkedIn</a> ·
-<a href="https://www.bunkerweb.io">BunkerWeb</a> ·
-<a href="mailto:github.zouoy@passmail.net">Email</a>
