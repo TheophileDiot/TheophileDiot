@@ -1,74 +1,118 @@
-<h1 align="center">
-  Hi, I'm Théophile Diot
-  <img src="./wave.gif" width="30" height="30" alt="waving hand" />
-</h1>
+<table>
+  <tr>
+    <td width="44%" valign="top">
+      <p><sub>THEOPHILE DIOT<br />OPEN-SOURCE SOFTWARE ENGINEER</sub></p>
+      <h1>Théophile Diot</h1>
+      <p>I build open-source software for web security and developer tools.</p>
+      <p>
+        Software Engineer at <a href="https://www.bunkerity.com/">Bunkerity</a><br />
+        Maintainer of <a href="https://github.com/bunkerity/bunkerweb">BunkerWeb</a><br />
+        Based in France 🇫🇷
+      </p>
+      <p>
+        <a href="https://github.com/bunkerity/bunkerweb">BunkerWeb ↗</a><br />
+        <a href="https://github.com/TheophileDiot/ai-cli-observability">AI CLI Observability ↗</a><br />
+        <a href="https://www.linkedin.com/in/theophile-diot/">LinkedIn ↗</a><br />
+        <a href="mailto:github.zouoy@passmail.net">Email ↗</a>
+      </p>
+    </td>
+    <td width="56%" valign="top">
+      <p><sub>NOW / CURRENT FIELD NOTE</sub></p>
+      <h2>BunkerWeb</h2>
+      <p>
+        At Bunkerity, I maintain BunkerWeb, support its community, and ship releases across Linux,
+        Docker, Swarm, and Kubernetes.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>Lua</code>
+        <code>NGINX</code>
+        <code>Docker</code>
+        <code>Kubernetes</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/TheophileDiot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+Bunkerity;Building+BunkerWeb%2C+the+next-gen+open-source+WAF;Python+%E2%9D%A4%EF%B8%8F+Open+source" alt="Software Engineer at Bunkerity, building BunkerWeb" />
-  </a>
-</p>
+## Selected work
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheophileDiot&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/TheophileDiot?tab=followers">
-    <img src="https://img.shields.io/github/followers/TheophileDiot?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Followers" />
-  </a>
-  <a href="https://github.com/bunkerity/bunkerweb">
-    <img src="https://img.shields.io/github/stars/bunkerity/bunkerweb?label=BunkerWeb%20%E2%98%85&style=for-the-badge&color=9ece6a&labelColor=1a1b27" alt="BunkerWeb stars" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="24%" valign="top">
+      <p><sub>PROJECT 01</sub></p>
+      <p><strong>MAINTAINER</strong></p>
+      <p>
+        <code>Python</code><br />
+        <code>Lua</code><br />
+        <code>NGINX</code><br />
+        <code>Docker</code><br />
+        <code>Kubernetes</code>
+      </p>
+    </td>
+    <td width="76%" valign="top">
+      <h3>BunkerWeb</h3>
+      <p>
+        An open-source, cloud-native Web Application Firewall for secure-by-default web services.
+        It runs on NGINX and integrates with existing environments.
+      </p>
+      <p>
+        <a href="https://github.com/bunkerity/bunkerweb">Repository ↗</a> ·
+        <a href="https://docs.bunkerweb.io/">Documentation ↗</a> ·
+        <a href="https://demo.bunkerweb.io/">Live demo ↗</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">
+      <p><sub>PROJECT 02</sub></p>
+      <p><strong>PERSONAL PROJECT</strong></p>
+      <p>
+        <code>OpenTelemetry</code><br />
+        <code>Grafana</code><br />
+        <code>Docker Compose</code>
+      </p>
+    </td>
+    <td width="76%" valign="top">
+      <h3>AI CLI Observability</h3>
+      <p>
+        A self-hosted observability stack for Codex, Claude Code, and Gemini CLI.
+        One Grafana view covers usage, latency, errors, tokens, traces, and estimated API-equivalent cost.
+      </p>
+      <p>
+        <a href="https://github.com/TheophileDiot/ai-cli-observability">Repository ↗</a> ·
+        <a href="https://github.com/TheophileDiot/ai-cli-observability#architecture">Architecture ↗</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<!-- update the line below when focus shifts -->
-<p align="center"><b>Currently shipping →</b> the next BunkerWeb release and continuous community work.</p>
+## Signals
 
-<h3 align="center">About</h3>
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <p><sub>BUNKERWEB</sub></p>
+      <a href="https://github.com/bunkerity/bunkerweb/stargazers">
+        <img src="https://img.shields.io/github/stars/bunkerity/bunkerweb?style=flat-square&amp;label=stars&amp;color=ac541f&amp;labelColor=01163b" alt="BunkerWeb GitHub stars" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <p><sub>WORK</sub></p>
+      <a href="https://github.com/TheophileDiot?tab=repositories">Public repositories ↗</a>
+    </td>
+    <td width="33%" valign="top">
+      <p><sub>ACTIVITY</sub></p>
+      Every 30 minutes
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  Software Engineer at <a href="https://www.bunkerity.com/">Bunkerity</a> · Maintainer of <a href="https://www.bunkerweb.io">BunkerWeb</a> · Building <a href="https://github.com/TheophileDiot/ai-cli-observability">AI CLI Observability</a>
-  <br />
-  Based in France 🇫🇷 · Loves Python and shipping fun open-source experiments
-</p>
+## Toolkit
 
-<h3 align="center">Toolbelt</h3>
+`Python` · `Lua` · `Docker` · `NGINX` · `Kubernetes` · `Linux`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-bb9af7?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Docker-7aa2f7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/NGINX-bb9af7?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-  <img src="https://img.shields.io/badge/Kubernetes-9ece6a?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-9ece6a?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-</p>
-
-<h3 align="center">Featured projects</h3>
-
-<p align="center">
-  <a href="https://github.com/bunkerity/bunkerweb">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=bunkerity&repo=bunkerweb&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="BunkerWeb" />
-  </a>
-  <a href="https://github.com/TheophileDiot/ai-cli-observability">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=TheophileDiot&repo=ai-cli-observability&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AI CLI Observability" />
-  </a>
-</p>
-
-<!-- room for a third featured project — drop a pin card here when one earns the spot -->
-
-<h3 align="center">GitHub stats</h3>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=TheophileDiot&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="Théophile's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheophileDiot&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheophileDiot&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true" alt="Contribution graph" />
-</p>
-
-<h3 align="center">Recent activity</h3>
+<details>
+  <summary><strong>Recent public activity</strong> · updated every 30 minutes</summary>
 
 <!-- This block is rewritten every 30 minutes by .github/workflows/activity.yml.
      The `undefined` placeholders that occasionally appear in PR links are an
@@ -87,19 +131,12 @@
 10. 🗣 Commented on [#3658](https://github.com/bunkerity/bunkerweb/issues/3658#issuecomment-5176301047) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
-<h3 align="center">Connect</h3>
+</details>
 
-<p align="center">
-  <!-- update the LinkedIn URL below if it doesn't match your actual handle -->
-  <a href="https://www.linkedin.com/in/theophile-diot/">
-    <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.bunkerweb.io">
-    <img src="https://img.shields.io/badge/BunkerWeb-bb9af7?style=for-the-badge&logo=internetarchive&logoColor=white" alt="BunkerWeb" />
-  </a>
-  <a href="mailto:github.zouoy@passmail.net">
-    <img src="https://img.shields.io/badge/Email-9ece6a?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+---
 
-<p align="center"><sub>Thanks for stopping by — feel free to <a href="https://github.com/bunkerity/bunkerweb">star BunkerWeb</a> if it sounds useful 💜</sub></p>
+If you work on open source, web security, or developer infrastructure, say hello.
+
+<a href="https://www.linkedin.com/in/theophile-diot/">LinkedIn</a> ·
+<a href="https://www.bunkerweb.io">BunkerWeb</a> ·
+<a href="mailto:github.zouoy@passmail.net">Email</a>
