@@ -86,6 +86,30 @@
   </tr>
 </table>
 
+<details>
+  <summary><strong>Technical annex</strong> · AI CLI Observability system map</summary>
+
+Codex, Claude Code, and Gemini CLI send OTLP/HTTP to an OpenTelemetry Collector.
+The collector routes logs to VictoriaLogs, metrics to VictoriaMetrics, and traces to VictoriaTraces; Grafana reads each store.
+A pricing exporter supplies model prices and the USD-to-EUR rate.
+
+```mermaid
+flowchart LR
+    C[Codex] -->|OTLP/HTTP + bearer| O[OpenTelemetry Collector]
+    A[Claude Code] -->|OTLP/HTTP + bearer| O
+    G[Gemini CLI] -->|OTLP/HTTP + bearer| O
+    P[Pricing exporter] -->|price files| O
+    P -->|EUR rate + pricing metrics| M[VictoriaMetrics]
+    O -->|logs| L[VictoriaLogs]
+    O -->|metrics| M
+    O -->|traces| T[VictoriaTraces]
+    L --> D[Grafana]
+    M --> D
+    T --> D
+```
+
+</details>
+
 ## Signals
 
 <table>
