@@ -143,16 +143,16 @@ flowchart LR
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3367](https://github.com/bunkerity/bunkerweb/issues/3367) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 🔒 Closed issue [#3336](https://github.com/bunkerity/bunkerweb/issues/3336) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 🗣 Commented on [#3367](https://github.com/bunkerity/bunkerweb/issues/3367#issuecomment-5176806366) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🗣 Commented on [#3336](https://github.com/bunkerity/bunkerweb/issues/3336#issuecomment-5176805529) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 🗣 Commented on [#2178](https://github.com/bunkerity/bunkerweb/issues/2178#issuecomment-5176304608) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#3628](https://github.com/bunkerity/bunkerweb/issues/3628#issuecomment-5176303686) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#3323](https://github.com/bunkerity/bunkerweb/issues/3323#issuecomment-5176303062) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#3705](https://github.com/bunkerity/bunkerweb/issues/3705#issuecomment-5176302456) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#3701](https://github.com/bunkerity/bunkerweb/issues/3701#issuecomment-5176301662) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#3658](https://github.com/bunkerity/bunkerweb/issues/3658#issuecomment-5176301047) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#61](undefined) in [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering)
+2. 💪 Opened PR [#150](undefined) in [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
+3. 💪 Opened PR [#61](undefined) in [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering)
+4. 💪 Opened PR [#51](undefined) in [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security)
+5. 💪 Opened PR [#76](undefined) in [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)
+6. 💪 Opened PR [#150](undefined) in [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
+7. 💪 Opened PR [#591](undefined) in [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+8. ❌ Merged PR [#3812](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 💪 Opened PR [#3812](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. ❌ Merged PR [#3811](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
 
 </details>
