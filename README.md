@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.2](https://github.com/TheophileDiot/Claude-Usage-Tracker-Linux/releases/tag/v1.0.2) in [TheophileDiot/Claude-Usage-Tracker-Linux](https://github.com/TheophileDiot/Claude-Usage-Tracker-Linux)
-2. ❌ Merged PR [#61](undefined) in [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering)
-3. 💪 Opened PR [#150](undefined) in [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
-4. 💪 Opened PR [#61](undefined) in [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering)
-5. 💪 Opened PR [#51](undefined) in [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security)
-6. 💪 Opened PR [#76](undefined) in [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)
-7. 💪 Opened PR [#150](undefined) in [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
-8. 💪 Opened PR [#591](undefined) in [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-9. ❌ Merged PR [#3812](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 💪 Opened PR [#3812](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1.  Assigned issue [#3818](https://github.com/bunkerity/bunkerweb/issues/3818) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Assigned issue [#3810](https://github.com/bunkerity/bunkerweb/issues/3810) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3.  Labeled issue [#3810](https://github.com/bunkerity/bunkerweb/issues/3810) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4.  Assigned issue [#3775](https://github.com/bunkerity/bunkerweb/issues/3775) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5.  Labeled issue [#3775](https://github.com/bunkerity/bunkerweb/issues/3775) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6.  Labeled issue [#3754](https://github.com/bunkerity/bunkerweb/issues/3754) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Assigned issue [#3746](https://github.com/bunkerity/bunkerweb/issues/3746) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8.  Labeled issue [#3682](https://github.com/bunkerity/bunkerweb/issues/3682) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9.  Assigned issue [#3630](https://github.com/bunkerity/bunkerweb/issues/3630) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#3630](https://github.com/bunkerity/bunkerweb/issues/3630) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
