@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3818](https://github.com/bunkerity/bunkerweb/issues/3818#issuecomment-5340626774) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2.  Assigned issue [#3818](https://github.com/bunkerity/bunkerweb/issues/3818) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3.  Assigned issue [#3810](https://github.com/bunkerity/bunkerweb/issues/3810) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4.  Labeled issue [#3810](https://github.com/bunkerity/bunkerweb/issues/3810) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Assigned issue [#3775](https://github.com/bunkerity/bunkerweb/issues/3775) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6.  Labeled issue [#3775](https://github.com/bunkerity/bunkerweb/issues/3775) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7.  Labeled issue [#3754](https://github.com/bunkerity/bunkerweb/issues/3754) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Assigned issue [#3746](https://github.com/bunkerity/bunkerweb/issues/3746) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Labeled issue [#3682](https://github.com/bunkerity/bunkerweb/issues/3682) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Assigned issue [#3630](https://github.com/bunkerity/bunkerweb/issues/3630) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#3818](https://github.com/bunkerity/bunkerweb/issues/3818#issuecomment-5343222847) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 🗣 Commented on [#3818](https://github.com/bunkerity/bunkerweb/issues/3818#issuecomment-5340626774) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3.  Assigned issue [#3818](https://github.com/bunkerity/bunkerweb/issues/3818) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4.  Assigned issue [#3810](https://github.com/bunkerity/bunkerweb/issues/3810) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5.  Labeled issue [#3810](https://github.com/bunkerity/bunkerweb/issues/3810) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6.  Assigned issue [#3775](https://github.com/bunkerity/bunkerweb/issues/3775) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Labeled issue [#3775](https://github.com/bunkerity/bunkerweb/issues/3775) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8.  Labeled issue [#3754](https://github.com/bunkerity/bunkerweb/issues/3754) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9.  Assigned issue [#3746](https://github.com/bunkerity/bunkerweb/issues/3746) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#3682](https://github.com/bunkerity/bunkerweb/issues/3682) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
