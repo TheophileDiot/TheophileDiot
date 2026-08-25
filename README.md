@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.26](https://github.com/bunkerity/bunkerweb-helm/releases/tag/v1.0.26) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-2. ❌ Merged PR [#96](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-3. 💪 Opened PR [#96](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-4. ❌ Merged PR [#95](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-5. 💪 Opened PR [#95](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-6. ❌ Assigned PR [#94](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-7. 🗣 Commented on [#7295](https://github.com/netbirdio/netbird/issues/7295#issuecomment-5392685577) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
-8. 🔒 Closed issue [#3630](https://github.com/bunkerity/bunkerweb/issues/3630) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🔒 Closed issue [#3692](https://github.com/bunkerity/bunkerweb/issues/3692) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🔒 Closed issue [#3089](https://github.com/bunkerity/bunkerweb/issues/3089) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1.  Assigned issue [#3836](https://github.com/bunkerity/bunkerweb/issues/3836) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Assigned issue [#3835](https://github.com/bunkerity/bunkerweb/issues/3835) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🚀 Published release [v1.0.26](https://github.com/bunkerity/bunkerweb-helm/releases/tag/v1.0.26) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+4. ❌ Merged PR [#96](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+5. 💪 Opened PR [#96](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+6. ❌ Merged PR [#95](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+7. 💪 Opened PR [#95](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+8. ❌ Assigned PR [#94](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+9. 🗣 Commented on [#7295](https://github.com/netbirdio/netbird/issues/7295#issuecomment-5392685577) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
+10. 🔒 Closed issue [#3630](https://github.com/bunkerity/bunkerweb/issues/3630) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
