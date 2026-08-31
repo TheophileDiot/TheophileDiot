@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3858](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#3858](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. ❌ Merged PR [#3857](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 💪 Opened PR [#3857](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Merged PR [#3856](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 💪 Opened PR [#3856](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. ❌ Merged PR [#3855](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 💪 Opened PR [#3855](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. ❌ Merged PR [#150](undefined) in [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
-10. ❌ Closed PR [#3834](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#3512](https://github.com/bunkerity/bunkerweb/issues/3512#issuecomment-5480027881) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. ❌ Merged PR [#3858](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 💪 Opened PR [#3858](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. ❌ Merged PR [#3857](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 💪 Opened PR [#3857](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. ❌ Merged PR [#3856](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 💪 Opened PR [#3856](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. ❌ Merged PR [#3855](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 💪 Opened PR [#3855](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. ❌ Merged PR [#150](undefined) in [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
 <!--END_SECTION:activity-->
