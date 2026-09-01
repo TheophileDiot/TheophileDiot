@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#3269](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. ❌ Labeled PR [#3287](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. ❌ Labeled PR [#3272](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. ❌ Labeled PR [#3290](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Labeled PR [#3317](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. ❌ Labeled PR [#3346](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. ❌ Labeled PR [#3362](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Labeled issue [#738](https://github.com/bunkerity/bunkerweb/issues/738) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Labeled issue [#1592](https://github.com/bunkerity/bunkerweb/issues/1592) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Labeled issue [#770](https://github.com/bunkerity/bunkerweb/issues/770) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Labeled PR [#3325](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Labeled issue [#1220](https://github.com/bunkerity/bunkerweb/issues/1220) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Labeled PR [#3289](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4.  Labeled issue [#2211](https://github.com/bunkerity/bunkerweb/issues/2211) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. ❌ Labeled PR [#3329](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6.  Labeled issue [#2523](https://github.com/bunkerity/bunkerweb/issues/2523) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Labeled issue [#2528](https://github.com/bunkerity/bunkerweb/issues/2528) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8.  Labeled issue [#2542](https://github.com/bunkerity/bunkerweb/issues/2542) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9.  Labeled issue [#2924](https://github.com/bunkerity/bunkerweb/issues/2924) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#2120](https://github.com/bunkerity/bunkerweb/issues/2120) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
