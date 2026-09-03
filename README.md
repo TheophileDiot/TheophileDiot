@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18385](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
-2. ❗ Opened issue [#18384](https://github.com/stablyai/orca/issues/18384) in [stablyai/orca](https://github.com/stablyai/orca)
-3.  Labeled issue [#18384](https://github.com/stablyai/orca/issues/18384) in [stablyai/orca](https://github.com/stablyai/orca)
-4.  Assigned issue [#2344](https://github.com/bunkerity/bunkerweb/issues/2344) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Labeled issue [#2344](https://github.com/bunkerity/bunkerweb/issues/2344) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#2344](https://github.com/bunkerity/bunkerweb/issues/2344#issuecomment-5506945591) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#3643](https://github.com/bunkerity/bunkerweb/issues/3643#issuecomment-5506937456) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🔒 Closed issue [#3643](https://github.com/bunkerity/bunkerweb/issues/3643) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#3838](https://github.com/bunkerity/bunkerweb/issues/3838#issuecomment-5491633373) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. ❌ Labeled PR [#3325](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#3866](https://github.com/bunkerity/bunkerweb/issues/3866#issuecomment-5523841067) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 🗣 Commented on [#18384](https://github.com/stablyai/orca/issues/18384#issuecomment-5523638019) in [stablyai/orca](https://github.com/stablyai/orca)
+3. 🔒 Closed issue [#18384](https://github.com/stablyai/orca/issues/18384) in [stablyai/orca](https://github.com/stablyai/orca)
+4. ❌ Closed PR [#18385](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
+5. 🗣 Commented on [#18385](https://github.com/stablyai/orca/pull/18385#issuecomment-5523637534) in [stablyai/orca](https://github.com/stablyai/orca)
+6. 💪 Opened PR [#18385](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
+7. ❗ Opened issue [#18384](https://github.com/stablyai/orca/issues/18384) in [stablyai/orca](https://github.com/stablyai/orca)
+8.  Labeled issue [#18384](https://github.com/stablyai/orca/issues/18384) in [stablyai/orca](https://github.com/stablyai/orca)
+9.  Assigned issue [#2344](https://github.com/bunkerity/bunkerweb/issues/2344) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#2344](https://github.com/bunkerity/bunkerweb/issues/2344) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
