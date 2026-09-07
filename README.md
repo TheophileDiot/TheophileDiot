@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3878](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#3878](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. ❌ Merged PR [#3877](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 💪 Opened PR [#3877](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Closed PR [#3871](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. ❌ Closed PR [#3875](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#3866](https://github.com/bunkerity/bunkerweb/issues/3866#issuecomment-5523841067) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#18384](https://github.com/stablyai/orca/issues/18384#issuecomment-5523638019) in [stablyai/orca](https://github.com/stablyai/orca)
-9. 🔒 Closed issue [#18384](https://github.com/stablyai/orca/issues/18384) in [stablyai/orca](https://github.com/stablyai/orca)
-10. ❌ Closed PR [#18385](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
+1. 🗣 Commented on [#3836](https://github.com/bunkerity/bunkerweb/issues/3836#issuecomment-5570862692) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Assigned issue [#2524](https://github.com/bunkerity/bunkerweb/issues/2524) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 🗣 Commented on [#2524](https://github.com/bunkerity/bunkerweb/issues/2524#issuecomment-5570779789) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🗣 Commented on [#655](https://github.com/netbirdio/docs/pull/655#issuecomment-5570766428) in [netbirdio/docs](https://github.com/netbirdio/docs)
+5. 🗣 Commented on [#5600](https://github.com/netbirdio/netbird/pull/5600#issuecomment-5570762702) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
+6. 🗣 Commented on [#3840](https://github.com/bunkerity/bunkerweb/pull/3840#issuecomment-5569984643) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. ❌ Merged PR [#3887](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 💪 Opened PR [#3887](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. ❌ Merged PR [#3886](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 💪 Opened PR [#3886](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
