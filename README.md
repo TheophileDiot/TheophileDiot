@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](undefined) in [thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)
-2. ❗ Opened issue [#130](https://github.com/thibaultcha/lua-resty-mlcache/issues/130) in [thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)
-3. 🗣 Commented on [#69](https://github.com/bunkerity/bunkerweb-helm/issues/69#issuecomment-5571248051) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-4. 🗣 Commented on [#97](https://github.com/bunkerity/bunkerweb-helm/issues/97#issuecomment-5571258088) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-5. 🔒 Closed issue [#69](https://github.com/bunkerity/bunkerweb-helm/issues/69) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-6.  Assigned issue [#97](https://github.com/bunkerity/bunkerweb-helm/issues/97) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-7.  Labeled issue [#3685](https://github.com/bunkerity/bunkerweb/issues/3685) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#3836](https://github.com/bunkerity/bunkerweb/issues/3836#issuecomment-5570862692) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Assigned issue [#2524](https://github.com/bunkerity/bunkerweb/issues/2524) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#2524](https://github.com/bunkerity/bunkerweb/issues/2524#issuecomment-5570779789) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#3897](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 💪 Opened PR [#3897](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 💪 Opened PR [#131](undefined) in [thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)
+4. ❗ Opened issue [#130](https://github.com/thibaultcha/lua-resty-mlcache/issues/130) in [thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)
+5. 🗣 Commented on [#69](https://github.com/bunkerity/bunkerweb-helm/issues/69#issuecomment-5571248051) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+6. 🗣 Commented on [#97](https://github.com/bunkerity/bunkerweb-helm/issues/97#issuecomment-5571258088) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+7. 🔒 Closed issue [#69](https://github.com/bunkerity/bunkerweb-helm/issues/69) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+8.  Assigned issue [#97](https://github.com/bunkerity/bunkerweb-helm/issues/97) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+9.  Labeled issue [#3685](https://github.com/bunkerity/bunkerweb/issues/3685) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🗣 Commented on [#3836](https://github.com/bunkerity/bunkerweb/issues/3836#issuecomment-5570862692) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
