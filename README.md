@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/bunkerity/bunkerweb-helm/pull/108#issuecomment-5735673731) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-2.  Assigned issue [#3936](https://github.com/bunkerity/bunkerweb/issues/3936) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3.  Labeled issue [#3936](https://github.com/bunkerity/bunkerweb/issues/3936) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4.  Labeled issue [#3936](https://github.com/bunkerity/bunkerweb/issues/3936) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Labeled issue [#3936](https://github.com/bunkerity/bunkerweb/issues/3936) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#3936](https://github.com/bunkerity/bunkerweb/issues/3936#issuecomment-5732460743) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7.  Assigned issue [#3923](https://github.com/bunkerity/bunkerweb/issues/3923) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Labeled issue [#3923](https://github.com/bunkerity/bunkerweb/issues/3923) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#3923](https://github.com/bunkerity/bunkerweb/issues/3923#issuecomment-5730866203) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Assigned issue [#3930](https://github.com/bunkerity/bunkerweb/issues/3930) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#93](https://github.com/bunkerity/bunkerweb-helm/pull/93#issuecomment-5735745874) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+2. ❌ Merged PR [#110](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+3. 💪 Opened PR [#110](undefined) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+4. 🗣 Commented on [#108](https://github.com/bunkerity/bunkerweb-helm/pull/108#issuecomment-5735724447) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+5. 🗣 Commented on [#108](https://github.com/bunkerity/bunkerweb-helm/pull/108#issuecomment-5735673731) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+6.  Assigned issue [#3936](https://github.com/bunkerity/bunkerweb/issues/3936) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Labeled issue [#3936](https://github.com/bunkerity/bunkerweb/issues/3936) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8.  Labeled issue [#3936](https://github.com/bunkerity/bunkerweb/issues/3936) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9.  Labeled issue [#3936](https://github.com/bunkerity/bunkerweb/issues/3936) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🗣 Commented on [#3936](https://github.com/bunkerity/bunkerweb/issues/3936#issuecomment-5732460743) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
