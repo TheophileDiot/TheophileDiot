@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3940](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#3940](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. ❌ Merged PR [#45](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-4. 💪 Opened PR [#45](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-5. ❌ Merged PR [#3939](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 💪 Opened PR [#3939](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. ❌ Merged PR [#3938](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 💪 Opened PR [#3938](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Labeled issue [#3937](https://github.com/bunkerity/bunkerweb/issues/3937) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Assigned issue [#3937](https://github.com/bunkerity/bunkerweb/issues/3937) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🔒 Closed issue [#3930](https://github.com/bunkerity/bunkerweb/issues/3930) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 🔒 Closed issue [#3841](https://github.com/bunkerity/bunkerweb/issues/3841) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Merged PR [#3949](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 💪 Opened PR [#3949](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 🗣 Commented on [#3941](https://github.com/bunkerity/bunkerweb/issues/3941#issuecomment-5756134749) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🗣 Commented on [#3923](https://github.com/bunkerity/bunkerweb/issues/3923#issuecomment-5756106805) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🗣 Commented on [#591](https://github.com/trimstray/the-book-of-secret-knowledge/pull/591#issuecomment-5756094954) in [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+8. ❌ Merged PR [#3940](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 💪 Opened PR [#3940](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. ❌ Merged PR [#45](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
 <!--END_SECTION:activity-->
