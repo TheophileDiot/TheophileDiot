@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/TheophileDiot/Claude-Usage-Tracker-Linux/releases/tag/v1.1.0) in [TheophileDiot/Claude-Usage-Tracker-Linux](https://github.com/TheophileDiot/Claude-Usage-Tracker-Linux)
-2.  Assigned issue [#3957](https://github.com/bunkerity/bunkerweb/issues/3957) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3.  Labeled issue [#3957](https://github.com/bunkerity/bunkerweb/issues/3957) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4.  Labeled issue [#3453](https://github.com/bunkerity/bunkerweb/issues/3453) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5.  Labeled issue [#3267](https://github.com/bunkerity/bunkerweb/issues/3267) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6.  Labeled issue [#3134](https://github.com/bunkerity/bunkerweb/issues/3134) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7.  Labeled issue [#2860](https://github.com/bunkerity/bunkerweb/issues/2860) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Labeled issue [#3958](https://github.com/bunkerity/bunkerweb/issues/3958) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Assigned issue [#3958](https://github.com/bunkerity/bunkerweb/issues/3958) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Assigned issue [#3958](https://github.com/bunkerity/bunkerweb/issues/3958) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#3960](https://github.com/bunkerity/bunkerweb/issues/3960#issuecomment-5834564356) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 🗣 Commented on [#3960](https://github.com/bunkerity/bunkerweb/issues/3960#issuecomment-5834562550) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3.  Labeled issue [#235](https://github.com/bunkerity/bunkerweb-plugins/issues/235) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+4.  Assigned issue [#235](https://github.com/bunkerity/bunkerweb-plugins/issues/235) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+5. 🚀 Published release [v1.1.0](https://github.com/TheophileDiot/Claude-Usage-Tracker-Linux/releases/tag/v1.1.0) in [TheophileDiot/Claude-Usage-Tracker-Linux](https://github.com/TheophileDiot/Claude-Usage-Tracker-Linux)
+6.  Assigned issue [#3957](https://github.com/bunkerity/bunkerweb/issues/3957) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Labeled issue [#3957](https://github.com/bunkerity/bunkerweb/issues/3957) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8.  Labeled issue [#3453](https://github.com/bunkerity/bunkerweb/issues/3453) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9.  Labeled issue [#3267](https://github.com/bunkerity/bunkerweb/issues/3267) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#3134](https://github.com/bunkerity/bunkerweb/issues/3134) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
