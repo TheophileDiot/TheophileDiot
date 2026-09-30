@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3967](https://github.com/bunkerity/bunkerweb/issues/3967) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 🔒 Closed issue [#3964](https://github.com/bunkerity/bunkerweb/issues/3964) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. ❌ Closed PR [#3317](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🗣 Commented on [#3317](https://github.com/bunkerity/bunkerweb/pull/3317#issuecomment-5906499451) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 🗣 Commented on [#3965](https://github.com/bunkerity/bunkerweb/issues/3965#issuecomment-5891980906) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#3958](https://github.com/bunkerity/bunkerweb/issues/3958#issuecomment-5891979470) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#3960](https://github.com/bunkerity/bunkerweb/issues/3960#issuecomment-5891978063) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Unlabeled issue [#3965](https://github.com/bunkerity/bunkerweb/issues/3965) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Unlabeled issue [#3963](https://github.com/bunkerity/bunkerweb/issues/3963) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Assigned issue [#3960](https://github.com/bunkerity/bunkerweb/issues/3960) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#3066](https://github.com/bunkerity/bunkerweb/pull/3066#issuecomment-5913376204) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 🗣 Commented on [#97](https://github.com/bunkerity/bunkerweb-helm/issues/97#issuecomment-5912553628) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+3. 🗣 Commented on [#2137](https://github.com/bunkerity/bunkerweb/issues/2137#issuecomment-5912553330) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🗣 Commented on [#3941](https://github.com/bunkerity/bunkerweb/issues/3941#issuecomment-5912553968) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 🗣 Commented on [#48](https://github.com/bunkerity/bunkerweb-templates/pull/48#issuecomment-5911942280) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+6. ❌ Closed PR [#48](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+7. 🗣 Commented on [#3283](https://github.com/bunkerity/bunkerweb/pull/3283#issuecomment-5910102585) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 🗣 Commented on [#3971](https://github.com/bunkerity/bunkerweb/issues/3971#issuecomment-5906968010) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 🗣 Commented on [#3941](https://github.com/bunkerity/bunkerweb/issues/3941#issuecomment-5906898941) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🗣 Commented on [#3987](https://github.com/bunkerity/bunkerweb/issues/3987#issuecomment-5906898284) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
