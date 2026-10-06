@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](undefined) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
-2. 🗣 Commented on [#8](https://github.com/bunkerity/bunkerweb-mcp/pull/8#issuecomment-5996846527) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
-3. 🔒 Closed issue [#2](https://github.com/bunkerity/bunkerweb-mcp/issues/2) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
-4. 🗣 Commented on [#2](https://github.com/bunkerity/bunkerweb-mcp/issues/2#issuecomment-5996639269) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
-5.  Assigned issue [#121](https://github.com/bunkerity/bunkerweb-helm/issues/121) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-6.  Labeled issue [#121](https://github.com/bunkerity/bunkerweb-helm/issues/121) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-7.  Labeled issue [#3969](https://github.com/bunkerity/bunkerweb/issues/3969) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8.  Labeled issue [#3963](https://github.com/bunkerity/bunkerweb/issues/3963) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9.  Labeled issue [#3986](https://github.com/bunkerity/bunkerweb/issues/3986) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10.  Labeled issue [#3988](https://github.com/bunkerity/bunkerweb/issues/3988) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#4011](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 💪 Opened PR [#4011](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Closed PR [#8](undefined) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
+4. 🗣 Commented on [#8](https://github.com/bunkerity/bunkerweb-mcp/pull/8#issuecomment-5996846527) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
+5. 🔒 Closed issue [#2](https://github.com/bunkerity/bunkerweb-mcp/issues/2) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
+6. 🗣 Commented on [#2](https://github.com/bunkerity/bunkerweb-mcp/issues/2#issuecomment-5996639269) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
+7.  Assigned issue [#121](https://github.com/bunkerity/bunkerweb-helm/issues/121) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+8.  Labeled issue [#121](https://github.com/bunkerity/bunkerweb-helm/issues/121) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+9.  Labeled issue [#3969](https://github.com/bunkerity/bunkerweb/issues/3969) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Labeled issue [#3963](https://github.com/bunkerity/bunkerweb/issues/3963) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
