@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#554](https://github.com/DuarteSantos8/openGym/issues/554#issuecomment-6146065255) in [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
-2. ❌ Merged PR [#4042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. 💪 Opened PR [#4042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. ❌ Merged PR [#4041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 💪 Opened PR [#4041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. ❌ Merged PR [#310](undefined) in [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
-7. ❌ Merged PR [#4011](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 💪 Opened PR [#4011](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. ❌ Closed PR [#8](undefined) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
-10. 🗣 Commented on [#8](https://github.com/bunkerity/bunkerweb-mcp/pull/8#issuecomment-5996846527) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
+1. 💪 Opened PR [#6](undefined) in [bunkerity/bunkerweb-skills](https://github.com/bunkerity/bunkerweb-skills)
+2. 🗣 Commented on [#554](https://github.com/DuarteSantos8/openGym/issues/554#issuecomment-6146065255) in [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+3. ❌ Merged PR [#4042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 💪 Opened PR [#4042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. ❌ Merged PR [#4041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 💪 Opened PR [#4041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. ❌ Merged PR [#310](undefined) in [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
+8. ❌ Merged PR [#4011](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 💪 Opened PR [#4011](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. ❌ Closed PR [#8](undefined) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
 <!--END_SECTION:activity-->
