@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](undefined) in [bunkerity/bunkerweb-skills](https://github.com/bunkerity/bunkerweb-skills)
-2. 🗣 Commented on [#554](https://github.com/DuarteSantos8/openGym/issues/554#issuecomment-6146065255) in [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
-3. ❌ Merged PR [#4042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 💪 Opened PR [#4042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Merged PR [#4041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 💪 Opened PR [#4041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. ❌ Merged PR [#310](undefined) in [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
-8. ❌ Merged PR [#4011](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 💪 Opened PR [#4011](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. ❌ Closed PR [#8](undefined) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
+1. 🗣 Commented on [#591](https://github.com/trimstray/the-book-of-secret-knowledge/pull/591#issuecomment-6169079501) in [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+2. 💪 Opened PR [#30347](undefined) in [calcom/cal.diy](https://github.com/calcom/cal.diy)
+3. ❗ Opened issue [#30346](https://github.com/calcom/cal.diy/issues/30346) in [calcom/cal.diy](https://github.com/calcom/cal.diy)
+4. ❌ Merged PR [#6](undefined) in [bunkerity/bunkerweb-skills](https://github.com/bunkerity/bunkerweb-skills)
+5. 💪 Opened PR [#6](undefined) in [bunkerity/bunkerweb-skills](https://github.com/bunkerity/bunkerweb-skills)
+6. 🗣 Commented on [#554](https://github.com/DuarteSantos8/openGym/issues/554#issuecomment-6146065255) in [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+7. ❌ Merged PR [#4042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 💪 Opened PR [#4042](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. ❌ Merged PR [#4041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 💪 Opened PR [#4041](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
