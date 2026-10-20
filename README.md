@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8253](undefined) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 💪 Opened PR [#17092](undefined) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-3. 🗣 Commented on [#17](https://github.com/bunkerity/bunkerweb-mcp/pull/17#issuecomment-6217184427) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
-4. 🗣 Commented on [#17](https://github.com/bunkerity/bunkerweb-mcp/pull/17#issuecomment-6212980076) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
-5. 🗣 Commented on [#4060](https://github.com/bunkerity/bunkerweb/issues/4060#issuecomment-6210691264) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#4062](https://github.com/bunkerity/bunkerweb/issues/4062#issuecomment-6211499756) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#4032](https://github.com/bunkerity/bunkerweb/pull/4032#issuecomment-6195080272) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🔒 Closed issue [#16](https://github.com/bunkerity/bunkerweb-mcp/issues/16) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
-9. ❌ Merged PR [#4063](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 💪 Opened PR [#4063](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#4076](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 💪 Opened PR [#4076](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Merged PR [#4075](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 💪 Opened PR [#4075](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. 💪 Opened PR [#8253](undefined) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+6. 💪 Opened PR [#17092](undefined) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+7. 🗣 Commented on [#17](https://github.com/bunkerity/bunkerweb-mcp/pull/17#issuecomment-6217184427) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
+8. 🗣 Commented on [#17](https://github.com/bunkerity/bunkerweb-mcp/pull/17#issuecomment-6212980076) in [bunkerity/bunkerweb-mcp](https://github.com/bunkerity/bunkerweb-mcp)
+9. 🗣 Commented on [#4060](https://github.com/bunkerity/bunkerweb/issues/4060#issuecomment-6210691264) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🗣 Commented on [#4062](https://github.com/bunkerity/bunkerweb/issues/4062#issuecomment-6211499756) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
