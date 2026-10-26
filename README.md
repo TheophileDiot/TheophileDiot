@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4113](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 💪 Opened PR [#4113](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-3. ❌ Closed PR [#4068](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. ❌ Closed PR [#4066](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 🗣 Commented on [#17092](https://github.com/punkpeye/awesome-mcp-servers/pull/17092#issuecomment-6410305978) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-6. 🗣 Commented on [#4022](https://github.com/bunkerity/bunkerweb/issues/4022#issuecomment-6368402274) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. ❌ Merged PR [#4103](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 💪 Opened PR [#4103](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#4013](https://github.com/bunkerity/bunkerweb/issues/4013#issuecomment-6361283043) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#4012](https://github.com/bunkerity/bunkerweb/issues/4012#issuecomment-6361282145) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 💪 Opened PR [#34022](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
+2. ❗ Opened issue [#34021](https://github.com/stablyai/orca/issues/34021) in [stablyai/orca](https://github.com/stablyai/orca)
+3. 💪 Opened PR [#1986](undefined) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
+4. ❗ Opened issue [#1985](https://github.com/1jehuang/jcode/issues/1985) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
+5. 💪 Opened PR [#34016](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
+6. ❗ Opened issue [#34015](https://github.com/stablyai/orca/issues/34015) in [stablyai/orca](https://github.com/stablyai/orca)
+7. 💪 Opened PR [#34005](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
+8. ❗ Opened issue [#34004](https://github.com/stablyai/orca/issues/34004) in [stablyai/orca](https://github.com/stablyai/orca)
+9. 💪 Opened PR [#33999](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
+10. ❗ Opened issue [#33998](https://github.com/stablyai/orca/issues/33998) in [stablyai/orca](https://github.com/stablyai/orca)
 <!--END_SECTION:activity-->
