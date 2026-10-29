@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4021](https://github.com/bunkerity/bunkerweb/pull/4021#issuecomment-6464746284) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. ❌ Merged PR [#33999](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
-3. 💪 Opened PR [#34022](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
-4. ❗ Opened issue [#34021](https://github.com/stablyai/orca/issues/34021) in [stablyai/orca](https://github.com/stablyai/orca)
-5. 💪 Opened PR [#1986](undefined) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
-6. ❗ Opened issue [#1985](https://github.com/1jehuang/jcode/issues/1985) in [1jehuang/jcode](https://github.com/1jehuang/jcode)
-7. 💪 Opened PR [#34016](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
-8. ❗ Opened issue [#34015](https://github.com/stablyai/orca/issues/34015) in [stablyai/orca](https://github.com/stablyai/orca)
-9. 💪 Opened PR [#34005](undefined) in [stablyai/orca](https://github.com/stablyai/orca)
-10. ❗ Opened issue [#34004](https://github.com/stablyai/orca/issues/34004) in [stablyai/orca](https://github.com/stablyai/orca)
+1.  Assigned issue [#4119](https://github.com/bunkerity/bunkerweb/issues/4119) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2.  Labeled issue [#4119](https://github.com/bunkerity/bunkerweb/issues/4119) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3.  Unlabeled issue [#3969](https://github.com/bunkerity/bunkerweb/issues/3969) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4.  Labeled issue [#4024](https://github.com/bunkerity/bunkerweb/issues/4024) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5.  Unlabeled issue [#3628](https://github.com/bunkerity/bunkerweb/issues/3628) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6.  Assigned issue [#4118](https://github.com/bunkerity/bunkerweb/issues/4118) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7.  Labeled issue [#4114](https://github.com/bunkerity/bunkerweb/issues/4114) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8.  Labeled issue [#1700](https://github.com/bunkerity/bunkerweb/issues/1700) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9.  Labeled issue [#1857](https://github.com/bunkerity/bunkerweb/issues/1857) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10.  Assigned issue [#1902](https://github.com/bunkerity/bunkerweb/issues/1902) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
