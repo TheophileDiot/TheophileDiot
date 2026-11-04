@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#59](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-2. 💪 Opened PR [#59](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-3. ❌ Merged PR [#58](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-4. 💪 Opened PR [#58](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-5. 🗣 Commented on [#23](https://github.com/bunkerity/bunkerweb-templates/issues/23#issuecomment-6599415037) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-6. 🔒 Closed issue [#23](https://github.com/bunkerity/bunkerweb-templates/issues/23) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-7. 🔒 Closed issue [#97](https://github.com/bunkerity/bunkerweb-helm/issues/97) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-8. 🗣 Commented on [#52](https://github.com/bunkerity/bunkerweb-templates/pull/52#issuecomment-6574922702) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
-9. 🚀 Published release [v1.2.0](https://github.com/TheophileDiot/Claude-Usage-Tracker-Linux/releases/tag/v1.2.0) in [TheophileDiot/Claude-Usage-Tracker-Linux](https://github.com/TheophileDiot/Claude-Usage-Tracker-Linux)
-10. 🚀 Published release [Codex Usage Monitor 0.2.0](https://github.com/TheophileDiot/Codex-Usage-Tracker-Linux/releases/tag/v0.2.0) in [TheophileDiot/Codex-Usage-Tracker-Linux](https://github.com/TheophileDiot/Codex-Usage-Tracker-Linux)
+1. 🗣 Commented on [#159](https://github.com/bunkerity/bunkerweb-plugins/pull/159#issuecomment-6624672861) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+2. ❌ Closed PR [#159](undefined) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+3. 🗣 Commented on [#4122](https://github.com/bunkerity/bunkerweb/issues/4122#issuecomment-6624671627) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+4. 🗣 Commented on [#201](https://github.com/bunkerity/bunkerweb-plugins/issues/201#issuecomment-6624672152) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+5. 🔒 Closed issue [#201](https://github.com/bunkerity/bunkerweb-plugins/issues/201) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+6. 🔒 Closed issue [#4122](https://github.com/bunkerity/bunkerweb/issues/4122) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🗣 Commented on [#243](https://github.com/bunkerity/bunkerweb-plugins/issues/243#issuecomment-6624670871) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+8. 🔒 Closed issue [#243](https://github.com/bunkerity/bunkerweb-plugins/issues/243) in [bunkerity/bunkerweb-plugins](https://github.com/bunkerity/bunkerweb-plugins)
+9. ❌ Merged PR [#59](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
+10. 💪 Opened PR [#59](undefined) in [bunkerity/bunkerweb-templates](https://github.com/bunkerity/bunkerweb-templates)
 <!--END_SECTION:activity-->
