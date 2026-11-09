@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4047](https://github.com/bunkerity/bunkerweb/pull/4047#issuecomment-6687994188) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-2. 🗣 Commented on [#8338](https://github.com/netbirdio/netbird/pull/8338#issuecomment-6691673288) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
-3. 🗣 Commented on [#4047](https://github.com/bunkerity/bunkerweb/pull/4047#issuecomment-6687967037) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. ❌ Closed PR [#4131](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. ❌ Closed PR [#4124](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#4134](https://github.com/bunkerity/bunkerweb/pull/4134#issuecomment-6686060588) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#4086](https://github.com/bunkerity/bunkerweb/issues/4086#issuecomment-6682670489) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#4086](https://github.com/bunkerity/bunkerweb/issues/4086#issuecomment-6682505170) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#4120](https://github.com/bunkerity/bunkerweb/issues/4120#issuecomment-6680885052) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. 🗣 Commented on [#4121](https://github.com/bunkerity/bunkerweb/issues/4121#issuecomment-6680884174) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. 🗣 Commented on [#4141](https://github.com/bunkerity/bunkerweb/pull/4141#issuecomment-6737026623) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. ❌ Closed PR [#4141](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. 💪 Opened PR [#10821](undefined) in [certbot/certbot](https://github.com/certbot/certbot)
+4. ❌ Merged PR [#5](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+5. 💪 Opened PR [#5](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+6. ❌ Merged PR [#4](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+7. 💪 Opened PR [#4](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+8. ❌ Merged PR [#3](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+9. 💪 Opened PR [#3](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+10. 🗣 Commented on [#4047](https://github.com/bunkerity/bunkerweb/pull/4047#issuecomment-6687994188) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
