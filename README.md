@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4687](https://github.com/atuinsh/atuin/issues/4687) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-2. 🗣 Commented on [#142](https://github.com/bunkerity/bunkerweb-helm/issues/142#issuecomment-6738791030) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
-3. 🗣 Commented on [#4141](https://github.com/bunkerity/bunkerweb/pull/4141#issuecomment-6737026623) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. ❌ Closed PR [#4141](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 💪 Opened PR [#10821](undefined) in [certbot/certbot](https://github.com/certbot/certbot)
-6. ❌ Merged PR [#5](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
-7. 💪 Opened PR [#5](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
-8. ❌ Merged PR [#4](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
-9. 💪 Opened PR [#4](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
-10. ❌ Merged PR [#3](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+1. ❌ Merged PR [#10821](undefined) in [certbot/certbot](https://github.com/certbot/certbot)
+2. ❗ Opened issue [#4687](https://github.com/atuinsh/atuin/issues/4687) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+3. 🗣 Commented on [#142](https://github.com/bunkerity/bunkerweb-helm/issues/142#issuecomment-6738791030) in [bunkerity/bunkerweb-helm](https://github.com/bunkerity/bunkerweb-helm)
+4. 🗣 Commented on [#4141](https://github.com/bunkerity/bunkerweb/pull/4141#issuecomment-6737026623) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+5. ❌ Closed PR [#4141](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 💪 Opened PR [#10821](undefined) in [certbot/certbot](https://github.com/certbot/certbot)
+7. ❌ Merged PR [#5](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+8. 💪 Opened PR [#5](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+9. ❌ Merged PR [#4](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
+10. 💪 Opened PR [#4](undefined) in [bunkerity/certbot-dns-hosttech](https://github.com/bunkerity/certbot-dns-hosttech)
 <!--END_SECTION:activity-->
