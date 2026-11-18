@@ -27,14 +27,14 @@ A self-hosted observability stack for Codex, Claude Code, and Gemini CLI. One Gr
      upstream quirk of jamesgeorge007/github-activity-readme — do not "fix" them here. -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#8](undefined) in [bunkerity/bunkerweb-splunk-addon](https://github.com/bunkerity/bunkerweb-splunk-addon)
-2. 💪 Opened PR [#8](undefined) in [bunkerity/bunkerweb-splunk-addon](https://github.com/bunkerity/bunkerweb-splunk-addon)
-3. 🗣 Commented on [#3705](https://github.com/bunkerity/bunkerweb/issues/3705#issuecomment-6946347352) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-4. 🗣 Commented on [#4172](https://github.com/bunkerity/bunkerweb/issues/4172#issuecomment-6946345357) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-5. 🗣 Commented on [#4121](https://github.com/bunkerity/bunkerweb/issues/4121#issuecomment-6946343533) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-6. 🗣 Commented on [#4086](https://github.com/bunkerity/bunkerweb/issues/4086#issuecomment-6946347824) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-7. 🗣 Commented on [#4151](https://github.com/bunkerity/bunkerweb/issues/4151#issuecomment-6946344656) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-8. 🗣 Commented on [#4162](https://github.com/bunkerity/bunkerweb/pull/4162#issuecomment-6946349108) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-9. 🗣 Commented on [#4152](https://github.com/bunkerity/bunkerweb/pull/4152#issuecomment-6946348511) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
-10. ❌ Closed PR [#4183](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+1. ❌ Merged PR [#4206](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+2. 💪 Opened PR [#4206](undefined) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+3. ❌ Merged PR [#8](undefined) in [bunkerity/bunkerweb-splunk-addon](https://github.com/bunkerity/bunkerweb-splunk-addon)
+4. 💪 Opened PR [#8](undefined) in [bunkerity/bunkerweb-splunk-addon](https://github.com/bunkerity/bunkerweb-splunk-addon)
+5. 🗣 Commented on [#3705](https://github.com/bunkerity/bunkerweb/issues/3705#issuecomment-6946347352) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+6. 🗣 Commented on [#4172](https://github.com/bunkerity/bunkerweb/issues/4172#issuecomment-6946345357) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+7. 🗣 Commented on [#4121](https://github.com/bunkerity/bunkerweb/issues/4121#issuecomment-6946343533) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+8. 🗣 Commented on [#4086](https://github.com/bunkerity/bunkerweb/issues/4086#issuecomment-6946347824) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+9. 🗣 Commented on [#4151](https://github.com/bunkerity/bunkerweb/issues/4151#issuecomment-6946344656) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+10. 🗣 Commented on [#4162](https://github.com/bunkerity/bunkerweb/pull/4162#issuecomment-6946349108) in [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 <!--END_SECTION:activity-->
